@@ -2,7 +2,7 @@ name: font_awesome_flutter
 description: The Font Awesome Icon pack available as Flutter Icons. Provides 1600 additional icons to use in your apps.
 maintainer: Michael Spiss (@michaelspiss)
 homepage: https://github.com/fluttercommunity/font_awesome_flutter
-version: 0.0.2
+version: 10.0.0
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
@@ -12,10 +12,10 @@ dependencies:
     sdk: flutter
 
 dev_dependencies:
-  flutter_test:
-    sdk: flutter
   recase: ^4.0.0
   args: ^2.3.0
+  flutter_test:
+    sdk: flutter
   version: ^2.0.0
   ansicolor: ^2.0.1
   flutter_lints: ^1.0.0
@@ -38,14 +38,14 @@ flutter:
       fonts:
         - asset: lib/fonts/fa-light-300.ttf
           weight: 300
-    - family: FontAwesomeDuotone
-      fonts:
-        - asset: lib/fonts/fa-duotone-900.ttf
-          weight: 900
-#    - family: FontAwesomeThin
+#    - family: FontAwesomeDuotone
 #      fonts:
-#        - asset: lib/fonts/fa-thin-100.ttf
-#          weight: 100
+#        - asset: lib/fonts/fa-duotone-900.ttf
+#          weight: 900
+    - family: FontAwesomeThin
+      fonts:
+        - asset: lib/fonts/fa-thin-100.ttf
+          weight: 100
 
 
 ## Slidy Scripts

@@ -16,7 +16,7 @@ void main() {
             color: Color(0xFF666666),
             opacity: 0.5,
           ),
-          child: FaIcon(FontAwesomeIcons.universalAccess),
+          child: FaIcon(FontAwesomeIcons.accessibleIcon),
         ),
       ),
     );
@@ -24,13 +24,12 @@ void main() {
     expect(text.text.style!.color, const Color(0xFF666666).withOpacity(0.5));
   });
 
-  testWidgets('Icon sizing - no theme, default size',
-      (WidgetTester tester) async {
+  testWidgets('Icon sizing - no theme, default size', (WidgetTester tester) async {
     await tester.pumpWidget(
       const Directionality(
         textDirection: TextDirection.ltr,
         child: Center(
-          child: FaIcon(FontAwesomeIcons.universalAccess),
+          child: FaIcon(FontAwesomeIcons.accessibleIcon),
         ),
       ),
     );
@@ -39,14 +38,13 @@ void main() {
     expect(renderObject.size, equals(const Size.square(24.0)));
   });
 
-  testWidgets('Icon sizing - no theme, explicit size',
-      (WidgetTester tester) async {
+  testWidgets('Icon sizing - no theme, explicit size', (WidgetTester tester) async {
     await tester.pumpWidget(
       const Directionality(
         textDirection: TextDirection.ltr,
         child: Center(
           child: FaIcon(
-            FontAwesomeIcons.universalAccess,
+            FontAwesomeIcons.accessibleIcon,
             size: 96.0,
           ),
         ),
@@ -64,7 +62,7 @@ void main() {
         child: Center(
           child: IconTheme(
             data: IconThemeData(size: 36.0),
-            child: FaIcon(FontAwesomeIcons.universalAccess),
+            child: FaIcon(FontAwesomeIcons.accessibleIcon),
           ),
         ),
       ),
@@ -74,8 +72,7 @@ void main() {
     expect(renderObject.size, equals(const Size.square(36.0)));
   });
 
-  testWidgets('Icon sizing - sized theme, explicit size',
-      (WidgetTester tester) async {
+  testWidgets('Icon sizing - sized theme, explicit size', (WidgetTester tester) async {
     await tester.pumpWidget(
       const Directionality(
         textDirection: TextDirection.ltr,
@@ -83,7 +80,7 @@ void main() {
           child: IconTheme(
             data: IconThemeData(size: 36.0),
             child: FaIcon(
-              FontAwesomeIcons.universalAccess,
+              FontAwesomeIcons.accessibleIcon,
               size: 48.0,
             ),
           ),
@@ -95,15 +92,14 @@ void main() {
     expect(renderObject.size, equals(const Size.square(48.0)));
   });
 
-  testWidgets('Icon sizing - sizeless theme, default size',
-      (WidgetTester tester) async {
+  testWidgets('Icon sizing - sizeless theme, default size', (WidgetTester tester) async {
     await tester.pumpWidget(
       const Directionality(
         textDirection: TextDirection.ltr,
         child: Center(
           child: IconTheme(
             data: IconThemeData(),
-            child: FaIcon(FontAwesomeIcons.universalAccess),
+            child: FaIcon(FontAwesomeIcons.accessibleIcon),
           ),
         ),
       ),
@@ -113,13 +109,12 @@ void main() {
     expect(renderObject.size, equals(const Size.square(24.0)));
   });
 
-  testWidgets("Changing semantic label from null doesn't rebuild tree ",
-      (WidgetTester tester) async {
+  testWidgets("Changing semantic label from null doesn't rebuild tree ", (WidgetTester tester) async {
     await tester.pumpWidget(
       const Directionality(
         textDirection: TextDirection.ltr,
         child: Center(
-          child: FaIcon(FontAwesomeIcons.universalAccess),
+          child: FaIcon(FontAwesomeIcons.accessibleIcon),
         ),
       ),
     );
@@ -131,7 +126,7 @@ void main() {
         textDirection: TextDirection.ltr,
         child: Center(
           child: FaIcon(
-            FontAwesomeIcons.universalAccess,
+            FontAwesomeIcons.accessibleIcon,
             semanticLabel: 'a label',
           ),
         ),

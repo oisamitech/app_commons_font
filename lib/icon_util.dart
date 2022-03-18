@@ -10,11 +10,7 @@ class IconUtil {
   static IconData getIconByName(String iconName, String iconType) {
     IconData? icon;
 
-    if (iconType == 'duotone') {
-      icon = faIconNameMappingDuotone[iconName];
-    } else {
-      icon = faIconNameMapping['$iconType $iconName'];
-    }
+    icon = faIconNameMapping['$iconType $iconName'];
 
     icon ??= FontAwesomeIcons.lightExclamationCircle;
 

@@ -22,18 +22,18 @@ dev_dependencies:
 
 flutter:
   fonts:
-    - family: FontAwesomeBrands
-      fonts:
-        - asset: lib/fonts/fa-brands-400.ttf
-          weight: 400
-    - family: FontAwesomeRegular
-      fonts:
-        - asset: lib/fonts/fa-regular-400.ttf
-          weight: 400
-    - family: FontAwesomeSolid
-      fonts:
-        - asset: lib/fonts/fa-solid-900.ttf
-          weight: 900
+#    - family: FontAwesomeBrands
+#      fonts:
+#        - asset: lib/fonts/fa-brands-400.ttf
+#          weight: 400
+#    - family: FontAwesomeRegular
+#      fonts:
+#        - asset: lib/fonts/fa-regular-400.ttf
+#          weight: 400
+#    - family: FontAwesomeSolid
+#      fonts:
+#        - asset: lib/fonts/fa-solid-900.ttf
+#          weight: 900
     - family: FontAwesomeLight
       fonts:
         - asset: lib/fonts/fa-light-300.ttf
@@ -47,7 +47,6 @@ flutter:
         - asset: lib/fonts/fa-thin-100.ttf
           weight: 100
 
-
 ## Slidy Scripts
 vars: 
   mac_configurator: util/configurator.sh
@@ -55,5 +54,5 @@ vars:
 scripts: 
   mac_generate_icons_light: sh $mac_configurator --dynamic --exclude solid,brands,regular,duotone
   windows_generate_icons_light: $windows_configurator --dynamic --exclude solid,brands,regular,duotone
-  mac_generate_all_icons: sh $mac_configurator --dynamic
-  windows_generate_all_icons: $windows_configurator --dynamic
+  mac_generate_all_icons: sh $mac_configurator --dynamic --exclude duotone
+  windows_generate_all_icons: $windows_configurator --dynamic --exclude duotone

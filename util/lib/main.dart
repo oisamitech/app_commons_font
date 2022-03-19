@@ -559,7 +559,7 @@ bool readAndPickMetadata(File iconsJson, List<IconMetadata> metadata,
 
     List<String> iconStyles = (icon['styles'] as List).cast<String>();
 
-    //TODO: Remove line once duotone support discontinuation notice is removed
+    ///TODO: Remove line once duotone support discontinuation notice is removed
     if (iconStyles.contains('duotone')) hasDuotoneIcons = true;
 
     for (var excluded in excludedStyles) {

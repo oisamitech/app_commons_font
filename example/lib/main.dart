@@ -104,7 +104,7 @@ class FontAwesomeGalleryHomeState extends State<FontAwesomeGalleryHome> {
       title: const Text("Font Awesome Flutter Gallery"),
       actions: [
         IconButton(
-            icon: const FaIcon(FontAwesomeIcons.magnifyingGlass),
+            icon: const FaIcon(FontAwesomeIcons.lightMagnifyingGlass),
             onPressed: () {
               ModalRoute.of(context)?.addLocalHistoryEntry(
                 LocalHistoryEntry(
@@ -128,7 +128,7 @@ class FontAwesomeGalleryHomeState extends State<FontAwesomeGalleryHome> {
   AppBar _searchBar(BuildContext context) {
     return AppBar(
       leading: IconButton(
-        icon: const FaIcon(FontAwesomeIcons.arrowLeft),
+        icon: const FaIcon(FontAwesomeIcons.lightArrowLeft),
         onPressed: () {
           setState(
             () {

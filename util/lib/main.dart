@@ -43,13 +43,13 @@ class IconMetadata {
   final List<String> aliases;
 
   IconMetadata(
-      this.name,
-      this.label,
-      this.unicode,
-      this.searchTerms,
-      this.styles,
-      this.aliases,
-      );
+    this.name,
+    this.label,
+    this.unicode,
+    this.searchTerms,
+    this.styles,
+    this.aliases,
+  );
 }
 
 final AnsiPen red = AnsiPen()..xterm(009);
@@ -473,8 +473,8 @@ String generateIconAliases(IconMetadata icon, String style) {
   var iconName = normalizeIconName(icon.name, style, icon.styles.length);
   final List<String> lines = [];
 
-  for(String alias in icon.aliases) {
-    if(ignoredAliases.contains(alias)) continue;
+  for (String alias in icon.aliases) {
+    if (ignoredAliases.contains(alias)) continue;
 
     var aliasName = normalizeIconName(alias, style, icon.styles.length);
     lines.add('/// Alias $alias for icon [$iconName]');
@@ -559,7 +559,7 @@ bool readAndPickMetadata(File iconsJson, List<IconMetadata> metadata,
 
     List<String> iconStyles = (icon['styles'] as List).cast<String>();
 
-    ///TODO: Remove line once duotone support discontinuation notice is removed
+    ///Remove line once duotone support discontinuation notice is removed
     if (iconStyles.contains('duotone')) hasDuotoneIcons = true;
 
     for (var excluded in excludedStyles) {

@@ -129,6 +129,20 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/360-degrees?style=thin
   static const IconData thinThreeHundredSixtyDegrees = IconDataThin(0xe2dc);
 
+  /// Brands 42.group icon
+  ///
+  /// https://fontawesome.com/icons/42-group?style=brands
+  static const IconData fortyTwoGroup = IconDataBrands(0xe080);
+
+  /// Alias innosoft for icon [fortyTwoGroup]
+  @Deprecated('Use "fortyTwoGroup" instead.')
+  static const IconData innosoft = fortyTwoGroup;
+
+  /// Brands 500px icon
+  ///
+  /// https://fontawesome.com/icons/500px?style=brands
+  static const IconData fiveHundredPx = IconDataBrands(0xf26e);
+
   /// Light A icon
   ///
   /// https://fontawesome.com/icons/a?style=light
@@ -158,6 +172,16 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/accent-grave?style=thin
   static const IconData thinAccentGrave = IconDataThin(0x60);
+
+  /// Brands Accessible Icon icon
+  ///
+  /// https://fontawesome.com/icons/accessible-icon?style=brands
+  static const IconData accessibleIcon = IconDataBrands(0xf368);
+
+  /// Brands Accusoft icon
+  ///
+  /// https://fontawesome.com/icons/accusoft?style=brands
+  static const IconData accusoft = IconDataBrands(0xf369);
 
   /// Light Acorn icon
   ///
@@ -213,6 +237,21 @@ class FontAwesomeIcons {
   @Deprecated('Use "thinAddressCard" instead.')
   static const IconData thinVcard = thinAddressCard;
 
+  /// Brands App.net icon
+  ///
+  /// https://fontawesome.com/icons/adn?style=brands
+  static const IconData adn = IconDataBrands(0xf170);
+
+  /// Brands Adversal icon
+  ///
+  /// https://fontawesome.com/icons/adversal?style=brands
+  static const IconData adversal = IconDataBrands(0xf36a);
+
+  /// Brands affiliatetheme icon
+  ///
+  /// https://fontawesome.com/icons/affiliatetheme?style=brands
+  static const IconData affiliatetheme = IconDataBrands(0xf36b);
+
   /// Light Air Conditioner icon
   ///
   /// https://fontawesome.com/icons/air-conditioner?style=light
@@ -222,6 +261,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/air-conditioner?style=thin
   static const IconData thinAirConditioner = IconDataThin(0xf8f4);
+
+  /// Brands Airbnb icon
+  ///
+  /// https://fontawesome.com/icons/airbnb?style=brands
+  static const IconData airbnb = IconDataBrands(0xf834);
 
   /// Light Airplay icon
   ///
@@ -333,6 +377,11 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/album-collection-circle-user?style=thin
   static const IconData thinAlbumCollectionCircleUser = IconDataThin(0xe48f);
 
+  /// Brands Algolia icon
+  ///
+  /// https://fontawesome.com/icons/algolia?style=brands
+  static const IconData algolia = IconDataBrands(0xf36c);
+
   /// Light Alicorn icon
   ///
   /// https://fontawesome.com/icons/alicorn?style=light
@@ -421,6 +470,11 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/align-slash?style=thin
   static const IconData thinAlignSlash = IconDataThin(0xf846);
 
+  /// Brands Alipay icon
+  ///
+  /// https://fontawesome.com/icons/alipay?style=brands
+  static const IconData alipay = IconDataBrands(0xf642);
+
   /// Light Alt icon
   ///
   /// https://fontawesome.com/icons/alt?style=light
@@ -430,6 +484,21 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/alt?style=thin
   static const IconData thinAlt = IconDataThin(0xe08a);
+
+  /// Brands Amazon icon
+  ///
+  /// https://fontawesome.com/icons/amazon?style=brands
+  static const IconData amazon = IconDataBrands(0xf270);
+
+  /// Brands Amazon Pay icon
+  ///
+  /// https://fontawesome.com/icons/amazon-pay?style=brands
+  static const IconData amazonPay = IconDataBrands(0xf42c);
+
+  /// Brands Amilia icon
+  ///
+  /// https://fontawesome.com/icons/amilia?style=brands
+  static const IconData amilia = IconDataBrands(0xf36d);
 
   /// Light Guitar Amplifier icon
   ///
@@ -501,6 +570,11 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/anchor-lock?style=thin
   static const IconData thinAnchorLock = IconDataThin(0xe4ad);
 
+  /// Brands Android icon
+  ///
+  /// https://fontawesome.com/icons/android?style=brands
+  static const IconData android = IconDataBrands(0xf17b);
+
   /// Light Angel icon
   ///
   /// https://fontawesome.com/icons/angel?style=light
@@ -510,6 +584,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/angel?style=thin
   static const IconData thinAngel = IconDataThin(0xf779);
+
+  /// Brands AngelList icon
+  ///
+  /// https://fontawesome.com/icons/angellist?style=brands
+  static const IconData angellist = IconDataBrands(0xf209);
 
   /// Light Angle icon
   ///
@@ -643,6 +722,16 @@ class FontAwesomeIcons {
   @Deprecated('Use "thinAnglesUp" instead.')
   static const IconData thinAngleDoubleUp = thinAnglesUp;
 
+  /// Brands Angry Creative icon
+  ///
+  /// https://fontawesome.com/icons/angrycreative?style=brands
+  static const IconData angrycreative = IconDataBrands(0xf36e);
+
+  /// Brands Angular icon
+  ///
+  /// https://fontawesome.com/icons/angular?style=brands
+  static const IconData angular = IconDataBrands(0xf420);
+
   /// Light Ankh icon
   ///
   /// https://fontawesome.com/icons/ankh?style=light
@@ -683,6 +772,26 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/apostrophe?style=thin
   static const IconData thinApostrophe = IconDataThin(0x27);
 
+  /// Brands App Store icon
+  ///
+  /// https://fontawesome.com/icons/app-store?style=brands
+  static const IconData appStore = IconDataBrands(0xf36f);
+
+  /// Brands iOS App Store icon
+  ///
+  /// https://fontawesome.com/icons/app-store-ios?style=brands
+  static const IconData appStoreIos = IconDataBrands(0xf370);
+
+  /// Brands Apper Systems AB icon
+  ///
+  /// https://fontawesome.com/icons/apper?style=brands
+  static const IconData apper = IconDataBrands(0xf371);
+
+  /// Brands Apple icon
+  ///
+  /// https://fontawesome.com/icons/apple?style=brands
+  static const IconData apple = IconDataBrands(0xf179);
+
   /// Light Apple Core icon
   ///
   /// https://fontawesome.com/icons/apple-core?style=light
@@ -692,6 +801,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/apple-core?style=thin
   static const IconData thinAppleCore = IconDataThin(0xe08f);
+
+  /// Brands Apple Pay icon
+  ///
+  /// https://fontawesome.com/icons/apple-pay?style=brands
+  static const IconData applePay = IconDataBrands(0xf415);
 
   /// Light Apple whole icon
   ///
@@ -2267,6 +2381,11 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/arrows-up-to-line?style=thin
   static const IconData thinArrowsUpToLine = IconDataThin(0xe4c2);
 
+  /// Brands Artstation icon
+  ///
+  /// https://fontawesome.com/icons/artstation?style=brands
+  static const IconData artstation = IconDataBrands(0xf77a);
+
   /// Light asterisk icon
   ///
   /// https://fontawesome.com/icons/asterisk?style=light
@@ -2277,6 +2396,11 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/asterisk?style=thin
   static const IconData thinAsterisk = IconDataThin(0x2a);
 
+  /// Brands Asymmetrik, Ltd. icon
+  ///
+  /// https://fontawesome.com/icons/asymmetrik?style=brands
+  static const IconData asymmetrik = IconDataBrands(0xf372);
+
   /// Light At icon
   ///
   /// https://fontawesome.com/icons/at?style=light
@@ -2286,6 +2410,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/at?style=thin
   static const IconData thinAt = IconDataThin(0x40);
+
+  /// Brands Atlassian icon
+  ///
+  /// https://fontawesome.com/icons/atlassian?style=brands
+  static const IconData atlassian = IconDataBrands(0xf77b);
 
   /// Light Atom icon
   ///
@@ -2314,6 +2443,11 @@ class FontAwesomeIcons {
   /// Alias atom-alt for icon [thinAtomSimple]
   @Deprecated('Use "thinAtomSimple" instead.')
   static const IconData thinAtomAlt = thinAtomSimple;
+
+  /// Brands Audible icon
+  ///
+  /// https://fontawesome.com/icons/audible?style=brands
+  static const IconData audible = IconDataBrands(0xf373);
 
   /// Light Rectangle audio description icon
   ///
@@ -2345,6 +2479,21 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/austral-sign?style=thin
   static const IconData thinAustralSign = IconDataThin(0xe0a9);
 
+  /// Brands Autoprefixer icon
+  ///
+  /// https://fontawesome.com/icons/autoprefixer?style=brands
+  static const IconData autoprefixer = IconDataBrands(0xf41c);
+
+  /// Brands avianex icon
+  ///
+  /// https://fontawesome.com/icons/avianex?style=brands
+  static const IconData avianex = IconDataBrands(0xf374);
+
+  /// Brands Aviato icon
+  ///
+  /// https://fontawesome.com/icons/aviato?style=brands
+  static const IconData aviato = IconDataBrands(0xf421);
+
   /// Light Avocado icon
   ///
   /// https://fontawesome.com/icons/avocado?style=light
@@ -2374,6 +2523,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/award-simple?style=thin
   static const IconData thinAwardSimple = IconDataThin(0xe0ab);
+
+  /// Brands Amazon Web Services (AWS) icon
+  ///
+  /// https://fontawesome.com/icons/aws?style=brands
+  static const IconData aws = IconDataBrands(0xf375);
 
   /// Light Axe icon
   ///
@@ -2807,6 +2961,11 @@ class FontAwesomeIcons {
   @Deprecated('Use "thinBandage" instead.')
   static const IconData thinBandAid = thinBandage;
 
+  /// Brands Bandcamp icon
+  ///
+  /// https://fontawesome.com/icons/bandcamp?style=brands
+  static const IconData bandcamp = IconDataBrands(0xf2d5);
+
   /// Light Bangladeshi Taka Sign icon
   ///
   /// https://fontawesome.com/icons/bangladeshi-taka-sign?style=light
@@ -3205,6 +3364,11 @@ class FontAwesomeIcons {
   @Deprecated('Use "thinBatteryThreeQuarters" instead.')
   static const IconData thinBattery4 = thinBatteryThreeQuarters;
 
+  /// Brands Battle.net icon
+  ///
+  /// https://fontawesome.com/icons/battle-net?style=brands
+  static const IconData battleNet = IconDataBrands(0xf835);
+
   /// Light Bed icon
   ///
   /// https://fontawesome.com/icons/bed?style=light
@@ -3316,6 +3480,16 @@ class FontAwesomeIcons {
   /// Alias beer for icon [thinBeerMugEmpty]
   @Deprecated('Use "thinBeerMugEmpty" instead.')
   static const IconData thinBeer = thinBeerMugEmpty;
+
+  /// Brands Behance icon
+  ///
+  /// https://fontawesome.com/icons/behance?style=brands
+  static const IconData behance = IconDataBrands(0xf1b4);
+
+  /// Brands Behance Square icon
+  ///
+  /// https://fontawesome.com/icons/behance-square?style=brands
+  static const IconData behanceSquare = IconDataBrands(0xf1b5);
 
   /// Light bell icon
   ///
@@ -3445,6 +3619,16 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/bicycle?style=thin
   static const IconData thinBicycle = IconDataThin(0xf206);
 
+  /// Brands Bilibili icon
+  ///
+  /// https://fontawesome.com/icons/bilibili?style=brands
+  static const IconData bilibili = IconDataBrands(0xe3d9);
+
+  /// Brands BIMobject icon
+  ///
+  /// https://fontawesome.com/icons/bimobject?style=brands
+  static const IconData bimobject = IconDataBrands(0xf378);
+
   /// Light Binary icon
   ///
   /// https://fontawesome.com/icons/binary?style=light
@@ -3515,6 +3699,16 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/bird?style=thin
   static const IconData thinBird = IconDataThin(0xe469);
 
+  /// Brands Bitbucket icon
+  ///
+  /// https://fontawesome.com/icons/bitbucket?style=brands
+  static const IconData bitbucket = IconDataBrands(0xf171);
+
+  /// Brands Bitcoin icon
+  ///
+  /// https://fontawesome.com/icons/bitcoin?style=brands
+  static const IconData bitcoin = IconDataBrands(0xf379);
+
   /// Light Bitcoin Sign icon
   ///
   /// https://fontawesome.com/icons/bitcoin-sign?style=light
@@ -3524,6 +3718,21 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/bitcoin-sign?style=thin
   static const IconData thinBitcoinSign = IconDataThin(0xe0b4);
+
+  /// Brands Bity icon
+  ///
+  /// https://fontawesome.com/icons/bity?style=brands
+  static const IconData bity = IconDataBrands(0xf37a);
+
+  /// Brands Font Awesome Black Tie icon
+  ///
+  /// https://fontawesome.com/icons/black-tie?style=brands
+  static const IconData blackTie = IconDataBrands(0xf27e);
+
+  /// Brands BlackBerry icon
+  ///
+  /// https://fontawesome.com/icons/blackberry?style=brands
+  static const IconData blackberry = IconDataBrands(0xf37b);
 
   /// Light Blanket icon
   ///
@@ -3671,6 +3880,16 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/blog?style=thin
   static const IconData thinBlog = IconDataThin(0xf781);
 
+  /// Brands Blogger icon
+  ///
+  /// https://fontawesome.com/icons/blogger?style=brands
+  static const IconData blogger = IconDataBrands(0xf37c);
+
+  /// Brands Blogger B icon
+  ///
+  /// https://fontawesome.com/icons/blogger-b?style=brands
+  static const IconData bloggerB = IconDataBrands(0xf37d);
+
   /// Light Blueberries icon
   ///
   /// https://fontawesome.com/icons/blueberries?style=light
@@ -3690,6 +3909,16 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/bluetooth?style=thin
   static const IconData thinBluetooth = IconDataThin(0xf293);
+
+  /// Brands Bluetooth icon
+  ///
+  /// https://fontawesome.com/icons/bluetooth?style=brands
+  static const IconData brandsBluetooth = IconDataBrands(0xf293);
+
+  /// Brands Bluetooth icon
+  ///
+  /// https://fontawesome.com/icons/bluetooth-b?style=brands
+  static const IconData bluetoothB = IconDataBrands(0xf294);
 
   /// Light bold icon
   ///
@@ -4187,6 +4416,11 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/booth-curtain?style=thin
   static const IconData thinBoothCurtain = IconDataThin(0xf734);
 
+  /// Brands Bootstrap icon
+  ///
+  /// https://fontawesome.com/icons/bootstrap?style=brands
+  static const IconData bootstrap = IconDataBrands(0xf836);
+
   /// Light Border All icon
   ///
   /// https://fontawesome.com/icons/border-all?style=light
@@ -4332,6 +4566,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/bore-hole?style=thin
   static const IconData thinBoreHole = IconDataThin(0xe4c3);
+
+  /// Brands Bots icon
+  ///
+  /// https://fontawesome.com/icons/bots?style=brands
+  static const IconData bots = IconDataBrands(0xe340);
 
   /// Light Bottle Droplet icon
   ///
@@ -5157,6 +5396,11 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/brush?style=thin
   static const IconData thinBrush = IconDataThin(0xf55d);
 
+  /// Brands BTC icon
+  ///
+  /// https://fontawesome.com/icons/btc?style=brands
+  static const IconData btc = IconDataBrands(0xf15a);
+
   /// Light Bucket icon
   ///
   /// https://fontawesome.com/icons/bucket?style=light
@@ -5166,6 +5410,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/bucket?style=thin
   static const IconData thinBucket = IconDataThin(0xe4cf);
+
+  /// Brands Buffer icon
+  ///
+  /// https://fontawesome.com/icons/buffer?style=brands
+  static const IconData buffer = IconDataBrands(0xf837);
 
   /// Light Bug icon
   ///
@@ -5485,6 +5734,11 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/burger-soda?style=thin
   static const IconData thinBurgerSoda = IconDataThin(0xf858);
 
+  /// Brands Büromöbel-Experte GmbH & Co. KG. icon
+  ///
+  /// https://fontawesome.com/icons/buromobelexperte?style=brands
+  static const IconData buromobelexperte = IconDataBrands(0xf37f);
+
   /// Light Burrito icon
   ///
   /// https://fontawesome.com/icons/burrito?style=light
@@ -5570,6 +5824,16 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/butter?style=thin
   static const IconData thinButter = IconDataThin(0xe3e4);
+
+  /// Brands Buy n Large icon
+  ///
+  /// https://fontawesome.com/icons/buy-n-large?style=brands
+  static const IconData buyNLarge = IconDataBrands(0xf8a6);
+
+  /// Brands BuySellAds icon
+  ///
+  /// https://fontawesome.com/icons/buysellads?style=brands
+  static const IconData buysellads = IconDataBrands(0xf20d);
 
   /// Light C icon
   ///
@@ -6194,6 +6458,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/can-food?style=thin
   static const IconData thinCanFood = IconDataThin(0xe3e6);
+
+  /// Brands Canadian Maple Leaf icon
+  ///
+  /// https://fontawesome.com/icons/canadian-maple-leaf?style=brands
+  static const IconData canadianMapleLeaf = IconDataBrands(0xf785);
 
   /// Light Candle Holder icon
   ///
@@ -6947,6 +7216,56 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/cauldron?style=thin
   static const IconData thinCauldron = IconDataThin(0xf6bf);
 
+  /// Brands Amazon Pay Credit Card icon
+  ///
+  /// https://fontawesome.com/icons/cc-amazon-pay?style=brands
+  static const IconData ccAmazonPay = IconDataBrands(0xf42d);
+
+  /// Brands American Express Credit Card icon
+  ///
+  /// https://fontawesome.com/icons/cc-amex?style=brands
+  static const IconData ccAmex = IconDataBrands(0xf1f3);
+
+  /// Brands Apple Pay Credit Card icon
+  ///
+  /// https://fontawesome.com/icons/cc-apple-pay?style=brands
+  static const IconData ccApplePay = IconDataBrands(0xf416);
+
+  /// Brands Diner's Club Credit Card icon
+  ///
+  /// https://fontawesome.com/icons/cc-diners-club?style=brands
+  static const IconData ccDinersClub = IconDataBrands(0xf24c);
+
+  /// Brands Discover Credit Card icon
+  ///
+  /// https://fontawesome.com/icons/cc-discover?style=brands
+  static const IconData ccDiscover = IconDataBrands(0xf1f2);
+
+  /// Brands JCB Credit Card icon
+  ///
+  /// https://fontawesome.com/icons/cc-jcb?style=brands
+  static const IconData ccJcb = IconDataBrands(0xf24b);
+
+  /// Brands MasterCard Credit Card icon
+  ///
+  /// https://fontawesome.com/icons/cc-mastercard?style=brands
+  static const IconData ccMastercard = IconDataBrands(0xf1f1);
+
+  /// Brands Paypal Credit Card icon
+  ///
+  /// https://fontawesome.com/icons/cc-paypal?style=brands
+  static const IconData ccPaypal = IconDataBrands(0xf1f4);
+
+  /// Brands Stripe Credit Card icon
+  ///
+  /// https://fontawesome.com/icons/cc-stripe?style=brands
+  static const IconData ccStripe = IconDataBrands(0xf1f5);
+
+  /// Brands Visa Credit Card icon
+  ///
+  /// https://fontawesome.com/icons/cc-visa?style=brands
+  static const IconData ccVisa = IconDataBrands(0xf1f0);
+
   /// Light Cedi Sign icon
   ///
   /// https://fontawesome.com/icons/cedi-sign?style=light
@@ -6966,6 +7285,16 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/cent-sign?style=thin
   static const IconData thinCentSign = IconDataThin(0xe3f5);
+
+  /// Brands Centercode icon
+  ///
+  /// https://fontawesome.com/icons/centercode?style=brands
+  static const IconData centercode = IconDataBrands(0xf380);
+
+  /// Brands Centos icon
+  ///
+  /// https://fontawesome.com/icons/centos?style=brands
+  static const IconData centos = IconDataBrands(0xf789);
 
   /// Light certificate icon
   ///
@@ -7820,6 +8149,16 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/chopsticks?style=thin
   static const IconData thinChopsticks = IconDataThin(0xe3f7);
+
+  /// Brands Chrome icon
+  ///
+  /// https://fontawesome.com/icons/chrome?style=brands
+  static const IconData chrome = IconDataBrands(0xf268);
+
+  /// Brands Chromecast icon
+  ///
+  /// https://fontawesome.com/icons/chromecast?style=brands
+  static const IconData chromecast = IconDataBrands(0xf838);
 
   /// Light Church icon
   ///
@@ -10221,6 +10560,11 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/cloud-xmark?style=thin
   static const IconData thinCloudXmark = IconDataThin(0xe35f);
 
+  /// Brands Cloudflare icon
+  ///
+  /// https://fontawesome.com/icons/cloudflare?style=brands
+  static const IconData cloudflare = IconDataBrands(0xe07d);
+
   /// Light Clouds icon
   ///
   /// https://fontawesome.com/icons/clouds?style=light
@@ -10251,6 +10595,21 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/clouds-sun?style=thin
   static const IconData thinCloudsSun = IconDataThin(0xf746);
 
+  /// Brands cloudscale.ch icon
+  ///
+  /// https://fontawesome.com/icons/cloudscale?style=brands
+  static const IconData cloudscale = IconDataBrands(0xf383);
+
+  /// Brands Cloudsmith icon
+  ///
+  /// https://fontawesome.com/icons/cloudsmith?style=brands
+  static const IconData cloudsmith = IconDataBrands(0xf384);
+
+  /// Brands cloudversify icon
+  ///
+  /// https://fontawesome.com/icons/cloudversify?style=brands
+  static const IconData cloudversify = IconDataBrands(0xf385);
+
   /// Light Clover icon
   ///
   /// https://fontawesome.com/icons/clover?style=light
@@ -10270,6 +10629,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/club?style=thin
   static const IconData thinClub = IconDataThin(0xf327);
+
+  /// Brands Cmplid icon
+  ///
+  /// https://fontawesome.com/icons/cmplid?style=brands
+  static const IconData cmplid = IconDataBrands(0xe360);
 
   /// Light Coconut icon
   ///
@@ -10380,6 +10744,16 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/code-simple?style=thin
   static const IconData thinCodeSimple = IconDataThin(0xe13d);
+
+  /// Brands Codepen icon
+  ///
+  /// https://fontawesome.com/icons/codepen?style=brands
+  static const IconData codepen = IconDataBrands(0xf1cb);
+
+  /// Brands Codie Pie icon
+  ///
+  /// https://fontawesome.com/icons/codiepie?style=brands
+  static const IconData codiepie = IconDataBrands(0xf284);
 
   /// Light Coffee Bean icon
   ///
@@ -11007,6 +11381,16 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/computer-speaker?style=thin
   static const IconData thinComputerSpeaker = IconDataThin(0xf8b2);
 
+  /// Brands Confluence icon
+  ///
+  /// https://fontawesome.com/icons/confluence?style=brands
+  static const IconData confluence = IconDataBrands(0xf78d);
+
+  /// Brands Connect Develop icon
+  ///
+  /// https://fontawesome.com/icons/connectdevelop?style=brands
+  static const IconData connectdevelop = IconDataBrands(0xf20e);
+
   /// Light Container Storage icon
   ///
   /// https://fontawesome.com/icons/container-storage?style=light
@@ -11016,6 +11400,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/container-storage?style=thin
   static const IconData thinContainerStorage = IconDataThin(0xf4b7);
+
+  /// Brands Contao icon
+  ///
+  /// https://fontawesome.com/icons/contao?style=brands
+  static const IconData contao = IconDataBrands(0xf26d);
 
   /// Light Conveyor Belt icon
   ///
@@ -11115,6 +11504,11 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/corner?style=thin
   static const IconData thinCorner = IconDataThin(0xe3fe);
 
+  /// Brands Cotton Bureau icon
+  ///
+  /// https://fontawesome.com/icons/cotton-bureau?style=brands
+  static const IconData cottonBureau = IconDataBrands(0xf89e);
+
   /// Light Couch icon
   ///
   /// https://fontawesome.com/icons/couch?style=light
@@ -11163,6 +11557,11 @@ class FontAwesomeIcons {
   @Deprecated('Use "thinCowbellCirclePlus" instead.')
   static const IconData thinCowbellMore = thinCowbellCirclePlus;
 
+  /// Brands cPanel icon
+  ///
+  /// https://fontawesome.com/icons/cpanel?style=brands
+  static const IconData cpanel = IconDataBrands(0xf388);
+
   /// Light Crab icon
   ///
   /// https://fontawesome.com/icons/crab?style=light
@@ -11200,6 +11599,76 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/crate-empty?style=thin
   static const IconData thinCrateEmpty = IconDataThin(0xe151);
+
+  /// Brands Creative Commons icon
+  ///
+  /// https://fontawesome.com/icons/creative-commons?style=brands
+  static const IconData creativeCommons = IconDataBrands(0xf25e);
+
+  /// Brands Creative Commons Attribution icon
+  ///
+  /// https://fontawesome.com/icons/creative-commons-by?style=brands
+  static const IconData creativeCommonsBy = IconDataBrands(0xf4e7);
+
+  /// Brands Creative Commons Noncommercial icon
+  ///
+  /// https://fontawesome.com/icons/creative-commons-nc?style=brands
+  static const IconData creativeCommonsNc = IconDataBrands(0xf4e8);
+
+  /// Brands Creative Commons Noncommercial (Euro Sign) icon
+  ///
+  /// https://fontawesome.com/icons/creative-commons-nc-eu?style=brands
+  static const IconData creativeCommonsNcEu = IconDataBrands(0xf4e9);
+
+  /// Brands Creative Commons Noncommercial (Yen Sign) icon
+  ///
+  /// https://fontawesome.com/icons/creative-commons-nc-jp?style=brands
+  static const IconData creativeCommonsNcJp = IconDataBrands(0xf4ea);
+
+  /// Brands Creative Commons No Derivative Works icon
+  ///
+  /// https://fontawesome.com/icons/creative-commons-nd?style=brands
+  static const IconData creativeCommonsNd = IconDataBrands(0xf4eb);
+
+  /// Brands Creative Commons Public Domain icon
+  ///
+  /// https://fontawesome.com/icons/creative-commons-pd?style=brands
+  static const IconData creativeCommonsPd = IconDataBrands(0xf4ec);
+
+  /// Brands Alternate Creative Commons Public Domain icon
+  ///
+  /// https://fontawesome.com/icons/creative-commons-pd-alt?style=brands
+  static const IconData creativeCommonsPdAlt = IconDataBrands(0xf4ed);
+
+  /// Brands Creative Commons Remix icon
+  ///
+  /// https://fontawesome.com/icons/creative-commons-remix?style=brands
+  static const IconData creativeCommonsRemix = IconDataBrands(0xf4ee);
+
+  /// Brands Creative Commons Share Alike icon
+  ///
+  /// https://fontawesome.com/icons/creative-commons-sa?style=brands
+  static const IconData creativeCommonsSa = IconDataBrands(0xf4ef);
+
+  /// Brands Creative Commons Sampling icon
+  ///
+  /// https://fontawesome.com/icons/creative-commons-sampling?style=brands
+  static const IconData creativeCommonsSampling = IconDataBrands(0xf4f0);
+
+  /// Brands Creative Commons Sampling + icon
+  ///
+  /// https://fontawesome.com/icons/creative-commons-sampling-plus?style=brands
+  static const IconData creativeCommonsSamplingPlus = IconDataBrands(0xf4f1);
+
+  /// Brands Creative Commons Share icon
+  ///
+  /// https://fontawesome.com/icons/creative-commons-share?style=brands
+  static const IconData creativeCommonsShare = IconDataBrands(0xf4f2);
+
+  /// Brands Creative Commons CC0 icon
+  ///
+  /// https://fontawesome.com/icons/creative-commons-zero?style=brands
+  static const IconData creativeCommonsZero = IconDataBrands(0xf4f3);
 
   /// Light Credit Card icon
   ///
@@ -11256,6 +11725,11 @@ class FontAwesomeIcons {
   /// Alias cricket for icon [thinCricketBatBall]
   @Deprecated('Use "thinCricketBatBall" instead.')
   static const IconData thinCricket = thinCricketBatBall;
+
+  /// Brands Critical Role icon
+  ///
+  /// https://fontawesome.com/icons/critical-role?style=brands
+  static const IconData criticalRole = IconDataBrands(0xf6c9);
 
   /// Light Croissant icon
   ///
@@ -11375,6 +11849,16 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/crystal-ball?style=thin
   static const IconData thinCrystalBall = IconDataThin(0xe362);
 
+  /// Brands CSS 3 Logo icon
+  ///
+  /// https://fontawesome.com/icons/css3?style=brands
+  static const IconData css3 = IconDataBrands(0xf13c);
+
+  /// Brands Alternate CSS3 Logo icon
+  ///
+  /// https://fontawesome.com/icons/css3-alt?style=brands
+  static const IconData css3Alt = IconDataBrands(0xf38b);
+
   /// Light Cube icon
   ///
   /// https://fontawesome.com/icons/cube?style=light
@@ -11491,6 +11975,11 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/custard?style=thin
   static const IconData thinCustard = IconDataThin(0xe403);
 
+  /// Brands Cuttlefish icon
+  ///
+  /// https://fontawesome.com/icons/cuttlefish?style=brands
+  static const IconData cuttlefish = IconDataBrands(0xf38c);
+
   /// Light D icon
   ///
   /// https://fontawesome.com/icons/d?style=light
@@ -11500,6 +11989,16 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/d?style=thin
   static const IconData thinD = IconDataThin(0x44);
+
+  /// Brands Dungeons & Dragons icon
+  ///
+  /// https://fontawesome.com/icons/d-and-d?style=brands
+  static const IconData dAndD = IconDataBrands(0xf38d);
+
+  /// Brands D&D Beyond icon
+  ///
+  /// https://fontawesome.com/icons/d-and-d-beyond?style=brands
+  static const IconData dAndDBeyond = IconDataBrands(0xf6ca);
 
   /// Light Dagger icon
   ///
@@ -11511,6 +12010,11 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/dagger?style=thin
   static const IconData thinDagger = IconDataThin(0xf6cb);
 
+  /// Brands dailymotion icon
+  ///
+  /// https://fontawesome.com/icons/dailymotion?style=brands
+  static const IconData dailymotion = IconDataBrands(0xe052);
+
   /// Light Dash icon
   ///
   /// https://fontawesome.com/icons/dash?style=light
@@ -11520,6 +12024,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/dash?style=thin
   static const IconData thinDash = IconDataThin(0xe404);
+
+  /// Brands DashCube icon
+  ///
+  /// https://fontawesome.com/icons/dashcube?style=brands
+  static const IconData dashcube = IconDataBrands(0xf210);
 
   /// Light Database icon
   ///
@@ -11551,6 +12060,11 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/deer-rudolph?style=thin
   static const IconData thinDeerRudolph = IconDataThin(0xf78f);
 
+  /// Brands Deezer icon
+  ///
+  /// https://fontawesome.com/icons/deezer?style=brands
+  static const IconData deezer = IconDataBrands(0xe077);
+
   /// Light Delete left icon
   ///
   /// https://fontawesome.com/icons/delete-left?style=light
@@ -11579,6 +12093,11 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/delete-right?style=thin
   static const IconData thinDeleteRight = IconDataThin(0xe154);
 
+  /// Brands Delicious icon
+  ///
+  /// https://fontawesome.com/icons/delicious?style=brands
+  static const IconData delicious = IconDataBrands(0xf1a5);
+
   /// Light Democrat icon
   ///
   /// https://fontawesome.com/icons/democrat?style=light
@@ -11588,6 +12107,16 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/democrat?style=thin
   static const IconData thinDemocrat = IconDataThin(0xf747);
+
+  /// Brands deploy.dog icon
+  ///
+  /// https://fontawesome.com/icons/deploydog?style=brands
+  static const IconData deploydog = IconDataBrands(0xf38e);
+
+  /// Brands Deskpro icon
+  ///
+  /// https://fontawesome.com/icons/deskpro?style=brands
+  static const IconData deskpro = IconDataBrands(0xf38f);
 
   /// Light Desktop icon
   ///
@@ -11617,6 +12146,16 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/desktop-arrow-down?style=thin
   static const IconData thinDesktopArrowDown = IconDataThin(0xe155);
 
+  /// Brands DEV icon
+  ///
+  /// https://fontawesome.com/icons/dev?style=brands
+  static const IconData dev = IconDataBrands(0xf6cc);
+
+  /// Brands deviantART icon
+  ///
+  /// https://fontawesome.com/icons/deviantart?style=brands
+  static const IconData deviantart = IconDataBrands(0xf1bd);
+
   /// Light Dharmachakra icon
   ///
   /// https://fontawesome.com/icons/dharmachakra?style=light
@@ -11626,6 +12165,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/dharmachakra?style=thin
   static const IconData thinDharmachakra = IconDataThin(0xf655);
+
+  /// Brands DHL icon
+  ///
+  /// https://fontawesome.com/icons/dhl?style=brands
+  static const IconData dhl = IconDataBrands(0xf790);
 
   /// Light Diagram Cells icon
   ///
@@ -11871,6 +12415,11 @@ class FontAwesomeIcons {
   @Deprecated('Use "thinDiamondTurnRight" instead.')
   static const IconData thinDirections = thinDiamondTurnRight;
 
+  /// Brands Diaspora icon
+  ///
+  /// https://fontawesome.com/icons/diaspora?style=brands
+  static const IconData diaspora = IconDataBrands(0xf791);
+
   /// Light Dice icon
   ///
   /// https://fontawesome.com/icons/dice?style=light
@@ -12001,6 +12550,16 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/dice-two?style=thin
   static const IconData thinDiceTwo = IconDataThin(0xf528);
 
+  /// Brands Digg Logo icon
+  ///
+  /// https://fontawesome.com/icons/digg?style=brands
+  static const IconData digg = IconDataBrands(0xf1a6);
+
+  /// Brands Digital Ocean icon
+  ///
+  /// https://fontawesome.com/icons/digital-ocean?style=brands
+  static const IconData digitalOcean = IconDataBrands(0xf391);
+
   /// Light Diploma icon
   ///
   /// https://fontawesome.com/icons/diploma?style=light
@@ -12028,6 +12587,16 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/disc-drive?style=thin
   static const IconData thinDiscDrive = IconDataThin(0xf8b5);
+
+  /// Brands Discord icon
+  ///
+  /// https://fontawesome.com/icons/discord?style=brands
+  static const IconData discord = IconDataBrands(0xf392);
+
+  /// Brands Discourse icon
+  ///
+  /// https://fontawesome.com/icons/discourse?style=brands
+  static const IconData discourse = IconDataBrands(0xf393);
 
   /// Light Disease icon
   ///
@@ -12173,6 +12742,16 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/do-not-enter?style=thin
   static const IconData thinDoNotEnter = IconDataThin(0xf5ec);
+
+  /// Brands DocHub icon
+  ///
+  /// https://fontawesome.com/icons/dochub?style=brands
+  static const IconData dochub = IconDataBrands(0xf394);
+
+  /// Brands Docker icon
+  ///
+  /// https://fontawesome.com/icons/docker?style=brands
+  static const IconData docker = IconDataBrands(0xf395);
 
   /// Light Dog icon
   ///
@@ -12466,6 +13045,11 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/download?style=thin
   static const IconData thinDownload = IconDataThin(0xf019);
 
+  /// Brands Draft2digital icon
+  ///
+  /// https://fontawesome.com/icons/draft2digital?style=brands
+  static const IconData draft2digital = IconDataBrands(0xf396);
+
   /// Light Dragon icon
   ///
   /// https://fontawesome.com/icons/dragon?style=light
@@ -12516,6 +13100,16 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/dreidel?style=thin
   static const IconData thinDreidel = IconDataThin(0xf792);
 
+  /// Brands Dribbble icon
+  ///
+  /// https://fontawesome.com/icons/dribbble?style=brands
+  static const IconData dribbble = IconDataBrands(0xf17d);
+
+  /// Brands Dribbble Square icon
+  ///
+  /// https://fontawesome.com/icons/dribbble-square?style=brands
+  static const IconData dribbbleSquare = IconDataBrands(0xf397);
+
   /// Light Drone icon
   ///
   /// https://fontawesome.com/icons/drone?style=light
@@ -12543,6 +13137,11 @@ class FontAwesomeIcons {
   /// Alias drone-alt for icon [thinDroneFront]
   @Deprecated('Use "thinDroneFront" instead.')
   static const IconData thinDroneAlt = thinDroneFront;
+
+  /// Brands Dropbox icon
+  ///
+  /// https://fontawesome.com/icons/dropbox?style=brands
+  static const IconData dropbox = IconDataBrands(0xf16b);
 
   /// Light Droplet icon
   ///
@@ -12656,6 +13255,11 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/drumstick-bite?style=thin
   static const IconData thinDrumstickBite = IconDataThin(0xf6d7);
 
+  /// Brands Drupal Logo icon
+  ///
+  /// https://fontawesome.com/icons/drupal?style=brands
+  static const IconData drupal = IconDataBrands(0xf1a9);
+
   /// Light Dryer icon
   ///
   /// https://fontawesome.com/icons/dryer?style=light
@@ -12733,6 +13337,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/dungeon?style=thin
   static const IconData thinDungeon = IconDataThin(0xf6d9);
+
+  /// Brands Dyalog icon
+  ///
+  /// https://fontawesome.com/icons/dyalog?style=brands
+  static const IconData dyalog = IconDataBrands(0xf399);
 
   /// Light E icon
   ///
@@ -12815,6 +13424,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/ear-muffs?style=thin
   static const IconData thinEarMuffs = IconDataThin(0xf795);
+
+  /// Brands Earlybirds icon
+  ///
+  /// https://fontawesome.com/icons/earlybirds?style=brands
+  static const IconData earlybirds = IconDataBrands(0xf39a);
 
   /// Light Earth Africa icon
   ///
@@ -12922,6 +13536,11 @@ class FontAwesomeIcons {
   @Deprecated('Use "thinEarthOceania" instead.')
   static const IconData thinGlobeOceania = thinEarthOceania;
 
+  /// Brands eBay icon
+  ///
+  /// https://fontawesome.com/icons/ebay?style=brands
+  static const IconData ebay = IconDataBrands(0xf4f4);
+
   /// Light Eclipse icon
   ///
   /// https://fontawesome.com/icons/eclipse?style=light
@@ -12931,6 +13550,16 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/eclipse?style=thin
   static const IconData thinEclipse = IconDataThin(0xf749);
+
+  /// Brands Edge Browser icon
+  ///
+  /// https://fontawesome.com/icons/edge?style=brands
+  static const IconData edge = IconDataBrands(0xf282);
+
+  /// Brands Edge Legacy Browser icon
+  ///
+  /// https://fontawesome.com/icons/edge-legacy?style=brands
+  static const IconData edgeLegacy = IconDataBrands(0xe078);
 
   /// Light Egg icon
   ///
@@ -12971,6 +13600,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/eject?style=thin
   static const IconData thinEject = IconDataThin(0xf052);
+
+  /// Brands Elementor icon
+  ///
+  /// https://fontawesome.com/icons/elementor?style=brands
+  static const IconData elementor = IconDataBrands(0xf430);
 
   /// Light Elephant icon
   ///
@@ -13063,6 +13697,21 @@ class FontAwesomeIcons {
   /// Alias ellipsis-v for icon [thinEllipsisVertical]
   @Deprecated('Use "thinEllipsisVertical" instead.')
   static const IconData thinEllipsisV = thinEllipsisVertical;
+
+  /// Brands Ello icon
+  ///
+  /// https://fontawesome.com/icons/ello?style=brands
+  static const IconData ello = IconDataBrands(0xf5f1);
+
+  /// Brands Ember icon
+  ///
+  /// https://fontawesome.com/icons/ember?style=brands
+  static const IconData ember = IconDataBrands(0xf423);
+
+  /// Brands Galactic Empire icon
+  ///
+  /// https://fontawesome.com/icons/empire?style=brands
+  static const IconData empire = IconDataBrands(0xf1d1);
 
   /// Light Empty Set icon
   ///
@@ -13198,6 +13847,11 @@ class FontAwesomeIcons {
   @Deprecated('Use "thinEnvelopesBulk" instead.')
   static const IconData thinMailBulk = thinEnvelopesBulk;
 
+  /// Brands Envira Gallery icon
+  ///
+  /// https://fontawesome.com/icons/envira?style=brands
+  static const IconData envira = IconDataBrands(0xf299);
+
   /// Light Equals icon
   ///
   /// https://fontawesome.com/icons/equals?style=light
@@ -13218,6 +13872,11 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/eraser?style=thin
   static const IconData thinEraser = IconDataThin(0xf12d);
 
+  /// Brands Erlang icon
+  ///
+  /// https://fontawesome.com/icons/erlang?style=brands
+  static const IconData erlang = IconDataBrands(0xf39d);
+
   /// Light Escalator icon
   ///
   /// https://fontawesome.com/icons/escalator?style=light
@@ -13228,6 +13887,11 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/escalator?style=thin
   static const IconData thinEscalator = IconDataThin(0xe171);
 
+  /// Brands Ethereum icon
+  ///
+  /// https://fontawesome.com/icons/ethereum?style=brands
+  static const IconData ethereum = IconDataBrands(0xf42e);
+
   /// Light Ethernet icon
   ///
   /// https://fontawesome.com/icons/ethernet?style=light
@@ -13237,6 +13901,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/ethernet?style=thin
   static const IconData thinEthernet = IconDataThin(0xf796);
+
+  /// Brands Etsy icon
+  ///
+  /// https://fontawesome.com/icons/etsy?style=brands
+  static const IconData etsy = IconDataBrands(0xf2d7);
 
   /// Light Euro Sign icon
   ///
@@ -13263,6 +13932,11 @@ class FontAwesomeIcons {
   /// Alias euro for icon [thinEuroSign]
   @Deprecated('Use "thinEuroSign" instead.')
   static const IconData thinEuro = thinEuroSign;
+
+  /// Brands Evernote icon
+  ///
+  /// https://fontawesome.com/icons/evernote?style=brands
+  static const IconData evernote = IconDataBrands(0xf839);
 
   /// Light exclamation icon
   ///
@@ -13293,6 +13967,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/expand-wide?style=thin
   static const IconData thinExpandWide = IconDataThin(0xf320);
+
+  /// Brands ExpeditedSSL icon
+  ///
+  /// https://fontawesome.com/icons/expeditedssl?style=brands
+  static const IconData expeditedssl = IconDataBrands(0xf23e);
 
   /// Light Explosion icon
   ///
@@ -14850,6 +15529,26 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/face-zipper?style=thin
   static const IconData thinFaceZipper = IconDataThin(0xe3a5);
 
+  /// Brands Facebook icon
+  ///
+  /// https://fontawesome.com/icons/facebook?style=brands
+  static const IconData facebook = IconDataBrands(0xf09a);
+
+  /// Brands Facebook F icon
+  ///
+  /// https://fontawesome.com/icons/facebook-f?style=brands
+  static const IconData facebookF = IconDataBrands(0xf39e);
+
+  /// Brands Facebook Messenger icon
+  ///
+  /// https://fontawesome.com/icons/facebook-messenger?style=brands
+  static const IconData facebookMessenger = IconDataBrands(0xf39f);
+
+  /// Brands Facebook Square icon
+  ///
+  /// https://fontawesome.com/icons/facebook-square?style=brands
+  static const IconData facebookSquare = IconDataBrands(0xf082);
+
   /// Light Falafel icon
   ///
   /// https://fontawesome.com/icons/falafel?style=light
@@ -14909,6 +15608,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/fan-table?style=thin
   static const IconData thinFanTable = IconDataThin(0xe004);
+
+  /// Brands Fantasy Flight-games icon
+  ///
+  /// https://fontawesome.com/icons/fantasy-flight-games?style=brands
+  static const IconData fantasyFlightGames = IconDataBrands(0xf6dc);
 
   /// Light Farm icon
   ///
@@ -14986,6 +15690,16 @@ class FontAwesomeIcons {
   @Deprecated('Use "thinFeatherPointed" instead.')
   static const IconData thinFeatherAlt = thinFeatherPointed;
 
+  /// Brands FedEx icon
+  ///
+  /// https://fontawesome.com/icons/fedex?style=brands
+  static const IconData fedex = IconDataBrands(0xf797);
+
+  /// Brands Fedora icon
+  ///
+  /// https://fontawesome.com/icons/fedora?style=brands
+  static const IconData fedora = IconDataBrands(0xf798);
+
   /// Light Fence icon
   ///
   /// https://fontawesome.com/icons/fence?style=light
@@ -15033,6 +15747,11 @@ class FontAwesomeIcons {
   /// Alias field-hockey for icon [thinFieldHockeyStickBall]
   @Deprecated('Use "thinFieldHockeyStickBall" instead.')
   static const IconData thinFieldHockey = thinFieldHockeyStickBall;
+
+  /// Brands Figma icon
+  ///
+  /// https://fontawesome.com/icons/figma?style=brands
+  static const IconData figma = IconDataBrands(0xf799);
 
   /// Light File icon
   ///
@@ -15926,6 +16645,16 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/fire-smoke?style=thin
   static const IconData thinFireSmoke = IconDataThin(0xf74b);
 
+  /// Brands Firefox icon
+  ///
+  /// https://fontawesome.com/icons/firefox?style=brands
+  static const IconData firefox = IconDataBrands(0xf269);
+
+  /// Brands Firefox Browser icon
+  ///
+  /// https://fontawesome.com/icons/firefox-browser?style=brands
+  static const IconData firefoxBrowser = IconDataBrands(0xe007);
+
   /// Light Fireplace icon
   ///
   /// https://fontawesome.com/icons/fireplace?style=light
@@ -15935,6 +16664,21 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/fireplace?style=thin
   static const IconData thinFireplace = IconDataThin(0xf79a);
+
+  /// Brands First Order icon
+  ///
+  /// https://fontawesome.com/icons/first-order?style=brands
+  static const IconData firstOrder = IconDataBrands(0xf2b0);
+
+  /// Brands Alternate First Order icon
+  ///
+  /// https://fontawesome.com/icons/first-order-alt?style=brands
+  static const IconData firstOrderAlt = IconDataBrands(0xf50a);
+
+  /// Brands firstdraft icon
+  ///
+  /// https://fontawesome.com/icons/firstdraft?style=brands
+  static const IconData firstdraft = IconDataBrands(0xf3a1);
 
   /// Light Fish icon
   ///
@@ -16138,6 +16882,16 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/flatbread-stuffed?style=thin
   static const IconData thinFlatbreadStuffed = IconDataThin(0xe40c);
 
+  /// Brands Flickr icon
+  ///
+  /// https://fontawesome.com/icons/flickr?style=brands
+  static const IconData flickr = IconDataBrands(0xf16e);
+
+  /// Brands Flipboard icon
+  ///
+  /// https://fontawesome.com/icons/flipboard?style=brands
+  static const IconData flipboard = IconDataBrands(0xf44d);
+
   /// Light Floppy Disk icon
   ///
   /// https://fontawesome.com/icons/floppy-disk?style=light
@@ -16289,6 +17043,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/flux-capacitor?style=thin
   static const IconData thinFluxCapacitor = IconDataThin(0xf8ba);
+
+  /// Brands Fly icon
+  ///
+  /// https://fontawesome.com/icons/fly?style=brands
+  static const IconData fly = IconDataBrands(0xf417);
 
   /// Light Flying Disc icon
   ///
@@ -16584,6 +17343,19 @@ class FontAwesomeIcons {
   @Deprecated('Use "thinFontAwesome" instead.')
   static const IconData thinFontAwesomeLogoFull = thinFontAwesome;
 
+  /// Brands Font Awesome icon
+  ///
+  /// https://fontawesome.com/icons/font-awesome?style=brands
+  static const IconData brandsFontAwesome = IconDataBrands(0xf2b4);
+
+  /// Alias font-awesome-flag for icon [brandsFontAwesome]
+  @Deprecated('Use "brandsFontAwesome" instead.')
+  static const IconData brandsFontAwesomeFlag = brandsFontAwesome;
+
+  /// Alias font-awesome-logo-full for icon [brandsFontAwesome]
+  @Deprecated('Use "brandsFontAwesome" instead.')
+  static const IconData brandsFontAwesomeLogoFull = brandsFontAwesome;
+
   /// Light Font Case icon
   ///
   /// https://fontawesome.com/icons/font-case?style=light
@@ -16593,6 +17365,16 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/font-case?style=thin
   static const IconData thinFontCase = IconDataThin(0xf866);
+
+  /// Brands Fonticons icon
+  ///
+  /// https://fontawesome.com/icons/fonticons?style=brands
+  static const IconData fonticons = IconDataBrands(0xf280);
+
+  /// Brands Fonticons Fi icon
+  ///
+  /// https://fontawesome.com/icons/fonticons-fi?style=brands
+  static const IconData fonticonsFi = IconDataBrands(0xf3a2);
 
   /// Light Football Ball icon
   ///
@@ -16678,6 +17460,21 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/fort?style=thin
   static const IconData thinFort = IconDataThin(0xe486);
 
+  /// Brands Fort Awesome icon
+  ///
+  /// https://fontawesome.com/icons/fort-awesome?style=brands
+  static const IconData fortAwesome = IconDataBrands(0xf286);
+
+  /// Brands Alternate Fort Awesome icon
+  ///
+  /// https://fontawesome.com/icons/fort-awesome-alt?style=brands
+  static const IconData fortAwesomeAlt = IconDataBrands(0xf3a3);
+
+  /// Brands Forumbee icon
+  ///
+  /// https://fontawesome.com/icons/forumbee?style=brands
+  static const IconData forumbee = IconDataBrands(0xf211);
+
   /// Light forward icon
   ///
   /// https://fontawesome.com/icons/forward?style=light
@@ -16724,6 +17521,11 @@ class FontAwesomeIcons {
   @Deprecated('Use "thinForwardStep" instead.')
   static const IconData thinStepForward = thinForwardStep;
 
+  /// Brands Foursquare icon
+  ///
+  /// https://fontawesome.com/icons/foursquare?style=brands
+  static const IconData foursquare = IconDataBrands(0xf180);
+
   /// Light Frame icon
   ///
   /// https://fontawesome.com/icons/frame?style=light
@@ -16744,6 +17546,16 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/franc-sign?style=thin
   static const IconData thinFrancSign = IconDataThin(0xe18f);
 
+  /// Brands freeCodeCamp icon
+  ///
+  /// https://fontawesome.com/icons/free-code-camp?style=brands
+  static const IconData freeCodeCamp = IconDataBrands(0xf2c5);
+
+  /// Brands FreeBSD icon
+  ///
+  /// https://fontawesome.com/icons/freebsd?style=brands
+  static const IconData freebsd = IconDataBrands(0xf3a4);
+
   /// Light French Fries icon
   ///
   /// https://fontawesome.com/icons/french-fries?style=light
@@ -16763,6 +17575,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/frog?style=thin
   static const IconData thinFrog = IconDataThin(0xf52e);
+
+  /// Brands Fulcrum icon
+  ///
+  /// https://fontawesome.com/icons/fulcrum?style=brands
+  static const IconData fulcrum = IconDataBrands(0xf50b);
 
   /// Light Function icon
   ///
@@ -16809,6 +17626,16 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/g?style=thin
   static const IconData thinG = IconDataThin(0x47);
+
+  /// Brands Galactic Republic icon
+  ///
+  /// https://fontawesome.com/icons/galactic-republic?style=brands
+  static const IconData galacticRepublic = IconDataBrands(0xf50c);
+
+  /// Brands Galactic Senate icon
+  ///
+  /// https://fontawesome.com/icons/galactic-senate?style=brands
+  static const IconData galacticSenate = IconDataBrands(0xf50d);
 
   /// Light Galaxy icon
   ///
@@ -17280,6 +18107,21 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/genderless?style=thin
   static const IconData thinGenderless = IconDataThin(0xf22d);
 
+  /// Brands Get Pocket icon
+  ///
+  /// https://fontawesome.com/icons/get-pocket?style=brands
+  static const IconData getPocket = IconDataBrands(0xf265);
+
+  /// Brands GG Currency icon
+  ///
+  /// https://fontawesome.com/icons/gg?style=brands
+  static const IconData gg = IconDataBrands(0xf260);
+
+  /// Brands GG Currency Circle icon
+  ///
+  /// https://fontawesome.com/icons/gg-circle?style=brands
+  static const IconData ggCircle = IconDataBrands(0xf261);
+
   /// Light Ghost icon
   ///
   /// https://fontawesome.com/icons/ghost?style=light
@@ -17339,6 +18181,51 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/gingerbread-man?style=thin
   static const IconData thinGingerbreadMan = IconDataThin(0xf79d);
+
+  /// Brands Git icon
+  ///
+  /// https://fontawesome.com/icons/git?style=brands
+  static const IconData git = IconDataBrands(0xf1d3);
+
+  /// Brands Git Alt icon
+  ///
+  /// https://fontawesome.com/icons/git-alt?style=brands
+  static const IconData gitAlt = IconDataBrands(0xf841);
+
+  /// Brands Git Square icon
+  ///
+  /// https://fontawesome.com/icons/git-square?style=brands
+  static const IconData gitSquare = IconDataBrands(0xf1d2);
+
+  /// Brands GitHub icon
+  ///
+  /// https://fontawesome.com/icons/github?style=brands
+  static const IconData github = IconDataBrands(0xf09b);
+
+  /// Brands Alternate GitHub icon
+  ///
+  /// https://fontawesome.com/icons/github-alt?style=brands
+  static const IconData githubAlt = IconDataBrands(0xf113);
+
+  /// Brands GitHub Square icon
+  ///
+  /// https://fontawesome.com/icons/github-square?style=brands
+  static const IconData githubSquare = IconDataBrands(0xf092);
+
+  /// Brands GitKraken icon
+  ///
+  /// https://fontawesome.com/icons/gitkraken?style=brands
+  static const IconData gitkraken = IconDataBrands(0xf3a6);
+
+  /// Brands GitLab icon
+  ///
+  /// https://fontawesome.com/icons/gitlab?style=brands
+  static const IconData gitlab = IconDataBrands(0xf296);
+
+  /// Brands Gitter icon
+  ///
+  /// https://fontawesome.com/icons/gitter?style=brands
+  static const IconData gitter = IconDataBrands(0xf426);
 
   /// Light Glass icon
   ///
@@ -17444,6 +18331,16 @@ class FontAwesomeIcons {
   @Deprecated('Use "thinGlassesRound" instead.')
   static const IconData thinGlassesAlt = thinGlassesRound;
 
+  /// Brands Glide icon
+  ///
+  /// https://fontawesome.com/icons/glide?style=brands
+  static const IconData glide = IconDataBrands(0xf2a5);
+
+  /// Brands Glide G icon
+  ///
+  /// https://fontawesome.com/icons/glide-g?style=brands
+  static const IconData glideG = IconDataBrands(0xf2a6);
+
   /// Light Globe icon
   ///
   /// https://fontawesome.com/icons/globe?style=light
@@ -17484,6 +18381,16 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/goal-net?style=thin
   static const IconData thinGoalNet = IconDataThin(0xe3ab);
 
+  /// Brands Gofore icon
+  ///
+  /// https://fontawesome.com/icons/gofore?style=brands
+  static const IconData gofore = IconDataBrands(0xf3a7);
+
+  /// Brands Go icon
+  ///
+  /// https://fontawesome.com/icons/golang?style=brands
+  static const IconData golang = IconDataBrands(0xe40f);
+
   /// Light Golf ball tee icon
   ///
   /// https://fontawesome.com/icons/golf-ball-tee?style=light
@@ -17521,6 +18428,56 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/golf-flag-hole?style=thin
   static const IconData thinGolfFlagHole = IconDataThin(0xe3ac);
+
+  /// Brands Goodreads icon
+  ///
+  /// https://fontawesome.com/icons/goodreads?style=brands
+  static const IconData goodreads = IconDataBrands(0xf3a8);
+
+  /// Brands Goodreads G icon
+  ///
+  /// https://fontawesome.com/icons/goodreads-g?style=brands
+  static const IconData goodreadsG = IconDataBrands(0xf3a9);
+
+  /// Brands Google Logo icon
+  ///
+  /// https://fontawesome.com/icons/google?style=brands
+  static const IconData google = IconDataBrands(0xf1a0);
+
+  /// Brands Google Drive icon
+  ///
+  /// https://fontawesome.com/icons/google-drive?style=brands
+  static const IconData googleDrive = IconDataBrands(0xf3aa);
+
+  /// Brands Google Pay icon
+  ///
+  /// https://fontawesome.com/icons/google-pay?style=brands
+  static const IconData googlePay = IconDataBrands(0xe079);
+
+  /// Brands Google Play icon
+  ///
+  /// https://fontawesome.com/icons/google-play?style=brands
+  static const IconData googlePlay = IconDataBrands(0xf3ab);
+
+  /// Brands Google Plus icon
+  ///
+  /// https://fontawesome.com/icons/google-plus?style=brands
+  static const IconData googlePlus = IconDataBrands(0xf2b3);
+
+  /// Brands Google Plus G icon
+  ///
+  /// https://fontawesome.com/icons/google-plus-g?style=brands
+  static const IconData googlePlusG = IconDataBrands(0xf0d5);
+
+  /// Brands Google Plus Square icon
+  ///
+  /// https://fontawesome.com/icons/google-plus-square?style=brands
+  static const IconData googlePlusSquare = IconDataBrands(0xf0d4);
+
+  /// Brands Google Wallet icon
+  ///
+  /// https://fontawesome.com/icons/google-wallet?style=brands
+  static const IconData googleWallet = IconDataBrands(0xf1ee);
 
   /// Light Gopuram icon
   ///
@@ -17589,6 +18546,16 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/grate-droplet?style=thin
   static const IconData thinGrateDroplet = IconDataThin(0xe194);
+
+  /// Brands Gratipay (Gittip) icon
+  ///
+  /// https://fontawesome.com/icons/gratipay?style=brands
+  static const IconData gratipay = IconDataBrands(0xf184);
+
+  /// Brands Grav icon
+  ///
+  /// https://fontawesome.com/icons/grav?style=brands
+  static const IconData grav = IconDataBrands(0xf2d6);
 
   /// Light Greater Than icon
   ///
@@ -17756,6 +18723,11 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/grip-vertical?style=thin
   static const IconData thinGripVertical = IconDataThin(0xf58e);
 
+  /// Brands Gripfire, Inc. icon
+  ///
+  /// https://fontawesome.com/icons/gripfire?style=brands
+  static const IconData gripfire = IconDataBrands(0xf3ac);
+
   /// Light Group Arrows-rotate icon
   ///
   /// https://fontawesome.com/icons/group-arrows-rotate?style=light
@@ -17766,6 +18738,11 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/group-arrows-rotate?style=thin
   static const IconData thinGroupArrowsRotate = IconDataThin(0xe4f6);
 
+  /// Brands Grunt icon
+  ///
+  /// https://fontawesome.com/icons/grunt?style=brands
+  static const IconData grunt = IconDataBrands(0xf3ad);
+
   /// Light Guarani Sign icon
   ///
   /// https://fontawesome.com/icons/guarani-sign?style=light
@@ -17775,6 +18752,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/guarani-sign?style=thin
   static const IconData thinGuaraniSign = IconDataThin(0xe19a);
+
+  /// Brands Guilded icon
+  ///
+  /// https://fontawesome.com/icons/guilded?style=brands
+  static const IconData guilded = IconDataBrands(0xe07e);
 
   /// Light Guitar icon
   ///
@@ -17805,6 +18787,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/guitars?style=thin
   static const IconData thinGuitars = IconDataThin(0xf8bf);
+
+  /// Brands Gulp icon
+  ///
+  /// https://fontawesome.com/icons/gulp?style=brands
+  static const IconData gulp = IconDataBrands(0xf3ae);
 
   /// Light Gun icon
   ///
@@ -17905,6 +18892,21 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/h6?style=thin
   static const IconData thinH6 = IconDataThin(0xe413);
+
+  /// Brands Hacker News icon
+  ///
+  /// https://fontawesome.com/icons/hacker-news?style=brands
+  static const IconData hackerNews = IconDataBrands(0xf1d4);
+
+  /// Brands Hacker News Square icon
+  ///
+  /// https://fontawesome.com/icons/hacker-news-square?style=brands
+  static const IconData hackerNewsSquare = IconDataBrands(0xf3af);
+
+  /// Brands Hackerrank icon
+  ///
+  /// https://fontawesome.com/icons/hackerrank?style=brands
+  static const IconData hackerrank = IconDataBrands(0xf5f7);
 
   /// Light Hammer icon
   ///
@@ -18670,6 +19672,11 @@ class FontAwesomeIcons {
   @Deprecated('Use "thinHardDrive" instead.')
   static const IconData thinHdd = thinHardDrive;
 
+  /// Brands Hashnode icon
+  ///
+  /// https://fontawesome.com/icons/hashnode?style=brands
+  static const IconData hashnode = IconDataBrands(0xe499);
+
   /// Light Hashtag icon
   ///
   /// https://fontawesome.com/icons/hashtag?style=light
@@ -19334,6 +20341,21 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/hippo?style=thin
   static const IconData thinHippo = IconDataThin(0xf6ed);
 
+  /// Brands Hips icon
+  ///
+  /// https://fontawesome.com/icons/hips?style=brands
+  static const IconData hips = IconDataBrands(0xf452);
+
+  /// Brands HireAHelper icon
+  ///
+  /// https://fontawesome.com/icons/hire-a-helper?style=brands
+  static const IconData hireAHelper = IconDataBrands(0xf3b0);
+
+  /// Brands Hive Blockchain Network icon
+  ///
+  /// https://fontawesome.com/icons/hive?style=brands
+  static const IconData hive = IconDataBrands(0xe07f);
+
   /// Light Hockey Mask icon
   ///
   /// https://fontawesome.com/icons/hockey-mask?style=light
@@ -19404,6 +20426,11 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/hood-cloak?style=thin
   static const IconData thinHoodCloak = IconDataThin(0xf6ef);
 
+  /// Brands Hooli icon
+  ///
+  /// https://fontawesome.com/icons/hooli?style=brands
+  static const IconData hooli = IconDataBrands(0xf427);
+
   /// Light Horizontal Rule icon
   ///
   /// https://fontawesome.com/icons/horizontal-rule?style=light
@@ -19413,6 +20440,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/horizontal-rule?style=thin
   static const IconData thinHorizontalRule = IconDataThin(0xf86c);
+
+  /// Brands Hornbill icon
+  ///
+  /// https://fontawesome.com/icons/hornbill?style=brands
+  static const IconData hornbill = IconDataBrands(0xf592);
 
   /// Light Horse icon
   ///
@@ -19547,6 +20579,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/hotel?style=thin
   static const IconData thinHotel = IconDataThin(0xf594);
+
+  /// Brands Hotjar icon
+  ///
+  /// https://fontawesome.com/icons/hotjar?style=brands
+  static const IconData hotjar = IconDataBrands(0xf3b1);
 
   /// Light Hourglass icon
   ///
@@ -20124,6 +21161,11 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/house-window?style=thin
   static const IconData thinHouseWindow = IconDataThin(0xe3b3);
 
+  /// Brands Houzz icon
+  ///
+  /// https://fontawesome.com/icons/houzz?style=brands
+  static const IconData houzz = IconDataBrands(0xf27c);
+
   /// Light Hryvnia sign icon
   ///
   /// https://fontawesome.com/icons/hryvnia-sign?style=light
@@ -20141,6 +21183,16 @@ class FontAwesomeIcons {
   /// Alias hryvnia for icon [thinHryvniaSign]
   @Deprecated('Use "thinHryvniaSign" instead.')
   static const IconData thinHryvnia = thinHryvniaSign;
+
+  /// Brands HTML 5 Logo icon
+  ///
+  /// https://fontawesome.com/icons/html5?style=brands
+  static const IconData html5 = IconDataBrands(0xf13b);
+
+  /// Brands HubSpot icon
+  ///
+  /// https://fontawesome.com/icons/hubspot?style=brands
+  static const IconData hubspot = IconDataBrands(0xf3b2);
 
   /// Light Hundred Points icon
   ///
@@ -20294,6 +21346,11 @@ class FontAwesomeIcons {
   @Deprecated('Use "thinIdCardClip" instead.')
   static const IconData thinIdCardAlt = thinIdCardClip;
 
+  /// Brands iDeal icon
+  ///
+  /// https://fontawesome.com/icons/ideal?style=brands
+  static const IconData ideal = IconDataBrands(0xe013);
+
   /// Light Igloo icon
   ///
   /// https://fontawesome.com/icons/igloo?style=light
@@ -20409,6 +21466,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/images-user?style=thin
   static const IconData thinImagesUser = IconDataThin(0xe1b9);
+
+  /// Brands IMDB icon
+  ///
+  /// https://fontawesome.com/icons/imdb?style=brands
+  static const IconData imdb = IconDataBrands(0xf2d8);
 
   /// Light inbox icon
   ///
@@ -20600,6 +21662,21 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/input-text?style=thin
   static const IconData thinInputText = IconDataThin(0xe1bf);
 
+  /// Brands Instagram icon
+  ///
+  /// https://fontawesome.com/icons/instagram?style=brands
+  static const IconData instagram = IconDataBrands(0xf16d);
+
+  /// Brands Instagram Square icon
+  ///
+  /// https://fontawesome.com/icons/instagram-square?style=brands
+  static const IconData instagramSquare = IconDataBrands(0xe055);
+
+  /// Brands InstaLOD icon
+  ///
+  /// https://fontawesome.com/icons/instalod?style=brands
+  static const IconData instalod = IconDataBrands(0xe081);
+
   /// Light Integral icon
   ///
   /// https://fontawesome.com/icons/integral?style=light
@@ -20610,6 +21687,16 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/integral?style=thin
   static const IconData thinIntegral = IconDataThin(0xf667);
 
+  /// Brands Intercom icon
+  ///
+  /// https://fontawesome.com/icons/intercom?style=brands
+  static const IconData intercom = IconDataBrands(0xf7af);
+
+  /// Brands Internet-explorer icon
+  ///
+  /// https://fontawesome.com/icons/internet-explorer?style=brands
+  static const IconData internetExplorer = IconDataBrands(0xf26b);
+
   /// Light Intersection icon
   ///
   /// https://fontawesome.com/icons/intersection?style=light
@@ -20619,6 +21706,16 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/intersection?style=thin
   static const IconData thinIntersection = IconDataThin(0xf668);
+
+  /// Brands InVision icon
+  ///
+  /// https://fontawesome.com/icons/invision?style=brands
+  static const IconData invision = IconDataBrands(0xf7b0);
+
+  /// Brands ioxhost icon
+  ///
+  /// https://fontawesome.com/icons/ioxhost?style=brands
+  static const IconData ioxhost = IconDataBrands(0xf208);
 
   /// Light Tropical Island icon
   ///
@@ -20647,6 +21744,21 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/italic?style=thin
   static const IconData thinItalic = IconDataThin(0xf033);
+
+  /// Brands itch.io icon
+  ///
+  /// https://fontawesome.com/icons/itch-io?style=brands
+  static const IconData itchIo = IconDataBrands(0xf83a);
+
+  /// Brands iTunes icon
+  ///
+  /// https://fontawesome.com/icons/itunes?style=brands
+  static const IconData itunes = IconDataBrands(0xf3b4);
+
+  /// Brands Itunes Note icon
+  ///
+  /// https://fontawesome.com/icons/itunes-note?style=brands
+  static const IconData itunesNote = IconDataBrands(0xf3b5);
 
   /// Light J icon
   ///
@@ -20688,6 +21800,11 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/jar-wheat?style=thin
   static const IconData thinJarWheat = IconDataThin(0xe517);
 
+  /// Brands Java icon
+  ///
+  /// https://fontawesome.com/icons/java?style=brands
+  static const IconData java = IconDataBrands(0xf4e4);
+
   /// Light Jedi icon
   ///
   /// https://fontawesome.com/icons/jedi?style=light
@@ -20697,6 +21814,16 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/jedi?style=thin
   static const IconData thinJedi = IconDataThin(0xf669);
+
+  /// Brands Jedi Order icon
+  ///
+  /// https://fontawesome.com/icons/jedi-order?style=brands
+  static const IconData jediOrder = IconDataBrands(0xf50e);
+
+  /// Brands Jenkis icon
+  ///
+  /// https://fontawesome.com/icons/jenkins?style=brands
+  static const IconData jenkins = IconDataBrands(0xf3b6);
 
   /// Light Jet fighter icon
   ///
@@ -20726,6 +21853,16 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/jet-fighter-up?style=thin
   static const IconData thinJetFighterUp = IconDataThin(0xe518);
 
+  /// Brands Jira icon
+  ///
+  /// https://fontawesome.com/icons/jira?style=brands
+  static const IconData jira = IconDataBrands(0xf7b1);
+
+  /// Brands Joget icon
+  ///
+  /// https://fontawesome.com/icons/joget?style=brands
+  static const IconData joget = IconDataBrands(0xf3b7);
+
   /// Light Joint icon
   ///
   /// https://fontawesome.com/icons/joint?style=light
@@ -20736,6 +21873,11 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/joint?style=thin
   static const IconData thinJoint = IconDataThin(0xf595);
 
+  /// Brands Joomla Logo icon
+  ///
+  /// https://fontawesome.com/icons/joomla?style=brands
+  static const IconData joomla = IconDataBrands(0xf1aa);
+
   /// Light Joystick icon
   ///
   /// https://fontawesome.com/icons/joystick?style=light
@@ -20745,6 +21887,21 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/joystick?style=thin
   static const IconData thinJoystick = IconDataThin(0xf8c5);
+
+  /// Brands JavaScript (JS) icon
+  ///
+  /// https://fontawesome.com/icons/js?style=brands
+  static const IconData js = IconDataBrands(0xf3b8);
+
+  /// Brands JavaScript (JS) Square icon
+  ///
+  /// https://fontawesome.com/icons/js-square?style=brands
+  static const IconData jsSquare = IconDataBrands(0xf3b9);
+
+  /// Brands jsFiddle icon
+  ///
+  /// https://fontawesome.com/icons/jsfiddle?style=brands
+  static const IconData jsfiddle = IconDataBrands(0xf1cc);
 
   /// Light Jug icon
   ///
@@ -20785,6 +21942,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/kaaba?style=thin
   static const IconData thinKaaba = IconDataThin(0xf66b);
+
+  /// Brands Kaggle icon
+  ///
+  /// https://fontawesome.com/icons/kaggle?style=brands
+  static const IconData kaggle = IconDataBrands(0xf5fa);
 
   /// Light Kazoo icon
   ///
@@ -20836,6 +21998,11 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/key-skeleton-left-right?style=thin
   static const IconData thinKeySkeletonLeftRight = IconDataThin(0xe3b4);
 
+  /// Brands Keybase icon
+  ///
+  /// https://fontawesome.com/icons/keybase?style=brands
+  static const IconData keybase = IconDataBrands(0xf4f5);
+
   /// Light Keyboard icon
   ///
   /// https://fontawesome.com/icons/keyboard?style=light
@@ -20886,6 +22053,11 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/keyboard-left?style=thin
   static const IconData thinKeyboardLeft = IconDataThin(0xe1c3);
 
+  /// Brands KeyCDN icon
+  ///
+  /// https://fontawesome.com/icons/keycdn?style=brands
+  static const IconData keycdn = IconDataBrands(0xf3ba);
+
   /// Light Keynote icon
   ///
   /// https://fontawesome.com/icons/keynote?style=light
@@ -20905,6 +22077,16 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/khanda?style=thin
   static const IconData thinKhanda = IconDataThin(0xf66d);
+
+  /// Brands Kickstarter icon
+  ///
+  /// https://fontawesome.com/icons/kickstarter?style=brands
+  static const IconData kickstarter = IconDataBrands(0xf3bb);
+
+  /// Brands Kickstarter K icon
+  ///
+  /// https://fontawesome.com/icons/kickstarter-k?style=brands
+  static const IconData kickstarterK = IconDataBrands(0xf3bc);
 
   /// Light Kidneys icon
   ///
@@ -21011,6 +22193,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/knife-kitchen?style=thin
   static const IconData thinKnifeKitchen = IconDataThin(0xf6f5);
+
+  /// Brands KORVUE icon
+  ///
+  /// https://fontawesome.com/icons/korvue?style=brands
+  static const IconData korvue = IconDataBrands(0xf42f);
 
   /// Light L icon
   ///
@@ -21228,6 +22415,11 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/laptop-slash?style=thin
   static const IconData thinLaptopSlash = IconDataThin(0xe1c7);
 
+  /// Brands Laravel icon
+  ///
+  /// https://fontawesome.com/icons/laravel?style=brands
+  static const IconData laravel = IconDataBrands(0xf3bd);
+
   /// Light Lari Sign icon
   ///
   /// https://fontawesome.com/icons/lari-sign?style=light
@@ -21257,6 +22449,16 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/lasso-sparkles?style=thin
   static const IconData thinLassoSparkles = IconDataThin(0xe1c9);
+
+  /// Brands last.fm icon
+  ///
+  /// https://fontawesome.com/icons/lastfm?style=brands
+  static const IconData lastfm = IconDataBrands(0xf202);
+
+  /// Brands last.fm Square icon
+  ///
+  /// https://fontawesome.com/icons/lastfm-square?style=brands
+  static const IconData lastfmSquare = IconDataBrands(0xf203);
 
   /// Light Layer Group icon
   ///
@@ -21353,6 +22555,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/leafy-green?style=thin
   static const IconData thinLeafyGreen = IconDataThin(0xe41d);
+
+  /// Brands Leanpub icon
+  ///
+  /// https://fontawesome.com/icons/leanpub?style=brands
+  static const IconData leanpub = IconDataBrands(0xf212);
 
   /// Light Left icon
   ///
@@ -21463,6 +22670,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/lemon?style=thin
   static const IconData thinLemon = IconDataThin(0xf094);
+
+  /// Brands Less icon
+  ///
+  /// https://fontawesome.com/icons/less?style=brands
+  static const IconData less = IconDataBrands(0xf41d);
 
   /// Light Less Than icon
   ///
@@ -21624,6 +22836,11 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/lights-holiday?style=thin
   static const IconData thinLightsHoliday = IconDataThin(0xf7b2);
 
+  /// Brands Line icon
+  ///
+  /// https://fontawesome.com/icons/line?style=brands
+  static const IconData line = IconDataBrands(0xf3c0);
+
   /// Light Line Columns icon
   ///
   /// https://fontawesome.com/icons/line-columns?style=light
@@ -21761,6 +22978,26 @@ class FontAwesomeIcons {
   /// Alias unlink for icon [thinLinkSlash]
   @Deprecated('Use "thinLinkSlash" instead.')
   static const IconData thinUnlink = thinLinkSlash;
+
+  /// Brands LinkedIn icon
+  ///
+  /// https://fontawesome.com/icons/linkedin?style=brands
+  static const IconData linkedin = IconDataBrands(0xf08c);
+
+  /// Brands LinkedIn In icon
+  ///
+  /// https://fontawesome.com/icons/linkedin-in?style=brands
+  static const IconData linkedinIn = IconDataBrands(0xf0e1);
+
+  /// Brands Linode icon
+  ///
+  /// https://fontawesome.com/icons/linode?style=brands
+  static const IconData linode = IconDataBrands(0xf2b8);
+
+  /// Brands Linux icon
+  ///
+  /// https://fontawesome.com/icons/linux?style=brands
+  static const IconData linux = IconDataBrands(0xf17c);
 
   /// Light Lips icon
   ///
@@ -22390,6 +23627,11 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/lungs-virus?style=thin
   static const IconData thinLungsVirus = IconDataThin(0xe067);
 
+  /// Brands lyft icon
+  ///
+  /// https://fontawesome.com/icons/lyft?style=brands
+  static const IconData lyft = IconDataBrands(0xf3c3);
+
   /// Light M icon
   ///
   /// https://fontawesome.com/icons/m?style=light
@@ -22409,6 +23651,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/mace?style=thin
   static const IconData thinMace = IconDataThin(0xf6f8);
+
+  /// Brands Magento icon
+  ///
+  /// https://fontawesome.com/icons/magento?style=brands
+  static const IconData magento = IconDataBrands(0xf3c4);
 
   /// Light magnet icon
   ///
@@ -22540,6 +23787,11 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/mailbox?style=thin
   static const IconData thinMailbox = IconDataThin(0xf813);
 
+  /// Brands Mailchimp icon
+  ///
+  /// https://fontawesome.com/icons/mailchimp?style=brands
+  static const IconData mailchimp = IconDataBrands(0xf59e);
+
   /// Light Manat Sign icon
   ///
   /// https://fontawesome.com/icons/manat-sign?style=light
@@ -22549,6 +23801,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/manat-sign?style=thin
   static const IconData thinManatSign = IconDataThin(0xe1d5);
+
+  /// Brands Mandalorian icon
+  ///
+  /// https://fontawesome.com/icons/mandalorian?style=brands
+  static const IconData mandalorian = IconDataBrands(0xf50f);
 
   /// Light Mandolin icon
   ///
@@ -22635,6 +23892,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/map-pin?style=thin
   static const IconData thinMapPin = IconDataThin(0xf276);
+
+  /// Brands Markdown icon
+  ///
+  /// https://fontawesome.com/icons/markdown?style=brands
+  static const IconData markdown = IconDataBrands(0xf60f);
 
   /// Light Marker icon
   ///
@@ -22844,6 +24106,11 @@ class FontAwesomeIcons {
   @Deprecated('Use "thinMasksTheater" instead.')
   static const IconData thinTheaterMasks = thinMasksTheater;
 
+  /// Brands Mastodon icon
+  ///
+  /// https://fontawesome.com/icons/mastodon?style=brands
+  static const IconData mastodon = IconDataBrands(0xf4f6);
+
   /// Light Mattress Pillow icon
   ///
   /// https://fontawesome.com/icons/mattress-pillow?style=light
@@ -22853,6 +24120,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/mattress-pillow?style=thin
   static const IconData thinMattressPillow = IconDataThin(0xe525);
+
+  /// Brands MaxCDN icon
+  ///
+  /// https://fontawesome.com/icons/maxcdn?style=brands
+  static const IconData maxcdn = IconDataBrands(0xf136);
 
   /// Light Maximize icon
   ///
@@ -22871,6 +24143,11 @@ class FontAwesomeIcons {
   /// Alias expand-arrows-alt for icon [thinMaximize]
   @Deprecated('Use "thinMaximize" instead.')
   static const IconData thinExpandArrowsAlt = thinMaximize;
+
+  /// Brands Material Design for Bootstrap icon
+  ///
+  /// https://fontawesome.com/icons/mdb?style=brands
+  static const IconData mdb = IconDataBrands(0xf8ca);
 
   /// Light Meat icon
   ///
@@ -22892,6 +24169,30 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/medal?style=thin
   static const IconData thinMedal = IconDataThin(0xf5a2);
 
+  /// Brands MedApps icon
+  ///
+  /// https://fontawesome.com/icons/medapps?style=brands
+  static const IconData medapps = IconDataBrands(0xf3c6);
+
+  /// Brands Medium icon
+  ///
+  /// https://fontawesome.com/icons/medium?style=brands
+  static const IconData medium = IconDataBrands(0xf23a);
+
+  /// Alias medium-m for icon [medium]
+  @Deprecated('Use "medium" instead.')
+  static const IconData mediumM = medium;
+
+  /// Brands MRT icon
+  ///
+  /// https://fontawesome.com/icons/medrt?style=brands
+  static const IconData medrt = IconDataBrands(0xf3c8);
+
+  /// Brands Meetup icon
+  ///
+  /// https://fontawesome.com/icons/meetup?style=brands
+  static const IconData meetup = IconDataBrands(0xf2e0);
+
   /// Light Megaphone icon
   ///
   /// https://fontawesome.com/icons/megaphone?style=light
@@ -22901,6 +24202,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/megaphone?style=thin
   static const IconData thinMegaphone = IconDataThin(0xf675);
+
+  /// Brands Megaport icon
+  ///
+  /// https://fontawesome.com/icons/megaport?style=brands
+  static const IconData megaport = IconDataBrands(0xf5a3);
 
   /// Light Melon icon
   ///
@@ -22971,6 +24277,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/memory?style=thin
   static const IconData thinMemory = IconDataThin(0xf538);
+
+  /// Brands Mendeley icon
+  ///
+  /// https://fontawesome.com/icons/mendeley?style=brands
+  static const IconData mendeley = IconDataBrands(0xf7b3);
 
   /// Light Menorah icon
   ///
@@ -23518,6 +24829,11 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/messages-question?style=thin
   static const IconData thinMessagesQuestion = IconDataThin(0xe1e7);
 
+  /// Brands Meta icon
+  ///
+  /// https://fontawesome.com/icons/meta?style=brands
+  static const IconData meta = IconDataBrands(0xe49b);
+
   /// Light Meteor icon
   ///
   /// https://fontawesome.com/icons/meteor?style=light
@@ -23567,6 +24883,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/meter-fire?style=thin
   static const IconData thinMeterFire = IconDataThin(0xe1eb);
+
+  /// Brands Micro.blog icon
+  ///
+  /// https://fontawesome.com/icons/microblog?style=brands
+  static const IconData microblog = IconDataBrands(0xe01a);
 
   /// Light Microchip icon
   ///
@@ -23664,6 +24985,11 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/microscope?style=thin
   static const IconData thinMicroscope = IconDataThin(0xf610);
 
+  /// Brands Microsoft icon
+  ///
+  /// https://fontawesome.com/icons/microsoft?style=brands
+  static const IconData microsoft = IconDataBrands(0xf3ca);
+
   /// Light Microwave icon
   ///
   /// https://fontawesome.com/icons/microwave?style=light
@@ -23739,6 +25065,26 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/mitten?style=thin
   static const IconData thinMitten = IconDataThin(0xf7b5);
+
+  /// Brands Mix icon
+  ///
+  /// https://fontawesome.com/icons/mix?style=brands
+  static const IconData mix = IconDataBrands(0xf3cb);
+
+  /// Brands Mixcloud icon
+  ///
+  /// https://fontawesome.com/icons/mixcloud?style=brands
+  static const IconData mixcloud = IconDataBrands(0xf289);
+
+  /// Brands Mixer icon
+  ///
+  /// https://fontawesome.com/icons/mixer?style=brands
+  static const IconData mixer = IconDataBrands(0xe056);
+
+  /// Brands Mizuni icon
+  ///
+  /// https://fontawesome.com/icons/mizuni?style=brands
+  static const IconData mizuni = IconDataBrands(0xf3cc);
 
   /// Light Mobile icon
   ///
@@ -23859,6 +25205,16 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/mobile-signal-out?style=thin
   static const IconData thinMobileSignalOut = IconDataThin(0xe1f0);
+
+  /// Brands MODX icon
+  ///
+  /// https://fontawesome.com/icons/modx?style=brands
+  static const IconData modx = IconDataBrands(0xf285);
+
+  /// Brands Monero icon
+  ///
+  /// https://fontawesome.com/icons/monero?style=brands
+  static const IconData monero = IconDataBrands(0xf3d0);
 
   /// Light Money Bill icon
   ///
@@ -24438,6 +25794,11 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/naira-sign?style=thin
   static const IconData thinNairaSign = IconDataThin(0xe1f6);
 
+  /// Brands Napster icon
+  ///
+  /// https://fontawesome.com/icons/napster?style=brands
+  static const IconData napster = IconDataBrands(0xf3d2);
+
   /// Light Narwhal icon
   ///
   /// https://fontawesome.com/icons/narwhal?style=light
@@ -24447,6 +25808,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/narwhal?style=thin
   static const IconData thinNarwhal = IconDataThin(0xf6fe);
+
+  /// Brands Neos icon
+  ///
+  /// https://fontawesome.com/icons/neos?style=brands
+  static const IconData neos = IconDataBrands(0xf612);
 
   /// Light Nesting Dolls icon
   ///
@@ -24497,6 +25863,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/nfc?style=thin
   static const IconData thinNfc = IconDataThin(0xe1f7);
+
+  /// Brands NFC Directional icon
+  ///
+  /// https://fontawesome.com/icons/nfc-directional?style=brands
+  static const IconData nfcDirectional = IconDataBrands(0xe530);
 
   /// Light NFC Lock icon
   ///
@@ -24558,6 +25929,11 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/nfc-symbol?style=thin
   static const IconData thinNfcSymbol = IconDataThin(0xe531);
 
+  /// Brands NFC Simplified icon
+  ///
+  /// https://fontawesome.com/icons/nfc-symbol?style=brands
+  static const IconData brandsNfcSymbol = IconDataBrands(0xe531);
+
   /// Light NFC Trash icon
   ///
   /// https://fontawesome.com/icons/nfc-trash?style=light
@@ -24567,6 +25943,21 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/nfc-trash?style=thin
   static const IconData thinNfcTrash = IconDataThin(0xe1fd);
+
+  /// Brands Nimblr icon
+  ///
+  /// https://fontawesome.com/icons/nimblr?style=brands
+  static const IconData nimblr = IconDataBrands(0xf5a8);
+
+  /// Brands Node.js icon
+  ///
+  /// https://fontawesome.com/icons/node?style=brands
+  static const IconData node = IconDataBrands(0xf419);
+
+  /// Brands Node.js JS icon
+  ///
+  /// https://fontawesome.com/icons/node-js?style=brands
+  static const IconData nodeJs = IconDataBrands(0xf3d3);
 
   /// Light Not Equal icon
   ///
@@ -24655,6 +26046,21 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/notes-medical?style=thin
   static const IconData thinNotesMedical = IconDataThin(0xf481);
+
+  /// Brands npm icon
+  ///
+  /// https://fontawesome.com/icons/npm?style=brands
+  static const IconData npm = IconDataBrands(0xf3d4);
+
+  /// Brands NS8 icon
+  ///
+  /// https://fontawesome.com/icons/ns8?style=brands
+  static const IconData ns8 = IconDataBrands(0xf3d5);
+
+  /// Brands Nutritionix icon
+  ///
+  /// https://fontawesome.com/icons/nutritionix?style=brands
+  static const IconData nutritionix = IconDataBrands(0xf3d6);
 
   /// Light O icon
   ///
@@ -24899,6 +26305,21 @@ class FontAwesomeIcons {
   @Deprecated('Use "thinOctagonXmark" instead.')
   static const IconData thinXmarkOctagon = thinOctagonXmark;
 
+  /// Brands Octopus Deploy icon
+  ///
+  /// https://fontawesome.com/icons/octopus-deploy?style=brands
+  static const IconData octopusDeploy = IconDataBrands(0xe082);
+
+  /// Brands Odnoklassniki icon
+  ///
+  /// https://fontawesome.com/icons/odnoklassniki?style=brands
+  static const IconData odnoklassniki = IconDataBrands(0xf263);
+
+  /// Brands Odnoklassniki Square icon
+  ///
+  /// https://fontawesome.com/icons/odnoklassniki-square?style=brands
+  static const IconData odnoklassnikiSquare = IconDataBrands(0xf264);
+
   /// Light Oil Can icon
   ///
   /// https://fontawesome.com/icons/oil-can?style=light
@@ -24946,6 +26367,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/oil-well?style=thin
   static const IconData thinOilWell = IconDataThin(0xe532);
+
+  /// Brands Old Republic icon
+  ///
+  /// https://fontawesome.com/icons/old-republic?style=brands
+  static const IconData oldRepublic = IconDataBrands(0xf510);
 
   /// Light Olive icon
   ///
@@ -24997,6 +26423,26 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/onion?style=thin
   static const IconData thinOnion = IconDataThin(0xe427);
 
+  /// Brands OpenCart icon
+  ///
+  /// https://fontawesome.com/icons/opencart?style=brands
+  static const IconData opencart = IconDataBrands(0xf23d);
+
+  /// Brands OpenID icon
+  ///
+  /// https://fontawesome.com/icons/openid?style=brands
+  static const IconData openid = IconDataBrands(0xf19b);
+
+  /// Brands Opera icon
+  ///
+  /// https://fontawesome.com/icons/opera?style=brands
+  static const IconData opera = IconDataBrands(0xf26a);
+
+  /// Brands Optin Monster icon
+  ///
+  /// https://fontawesome.com/icons/optin-monster?style=brands
+  static const IconData optinMonster = IconDataBrands(0xf23c);
+
   /// Light Option icon
   ///
   /// https://fontawesome.com/icons/option?style=light
@@ -25007,6 +26453,11 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/option?style=thin
   static const IconData thinOption = IconDataThin(0xe318);
 
+  /// Brands ORCID icon
+  ///
+  /// https://fontawesome.com/icons/orcid?style=brands
+  static const IconData orcid = IconDataBrands(0xf8d2);
+
   /// Light Ornament icon
   ///
   /// https://fontawesome.com/icons/ornament?style=light
@@ -25016,6 +26467,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/ornament?style=thin
   static const IconData thinOrnament = IconDataThin(0xf7b8);
+
+  /// Brands Open Source Initiative icon
+  ///
+  /// https://fontawesome.com/icons/osi?style=brands
+  static const IconData osi = IconDataBrands(0xf41a);
 
   /// Light Otter icon
   ///
@@ -25085,6 +26541,11 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/p?style=thin
   static const IconData thinP = IconDataThin(0x50);
 
+  /// Brands Padlet icon
+  ///
+  /// https://fontawesome.com/icons/padlet?style=brands
+  static const IconData padlet = IconDataBrands(0xe4a0);
+
   /// Light Page icon
   ///
   /// https://fontawesome.com/icons/page?style=light
@@ -25130,6 +26591,16 @@ class FontAwesomeIcons {
   /// Alias file-caret-up for icon [thinPageCaretUp]
   @Deprecated('Use "thinPageCaretUp" instead.')
   static const IconData thinFileCaretUp = thinPageCaretUp;
+
+  /// Brands page4 Corporation icon
+  ///
+  /// https://fontawesome.com/icons/page4?style=brands
+  static const IconData page4 = IconDataBrands(0xf3d7);
+
+  /// Brands Pagelines icon
+  ///
+  /// https://fontawesome.com/icons/pagelines?style=brands
+  static const IconData pagelines = IconDataBrands(0xf18c);
 
   /// Light Pager icon
   ///
@@ -25222,6 +26693,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/palette?style=thin
   static const IconData thinPalette = IconDataThin(0xf53f);
+
+  /// Brands Palfed icon
+  ///
+  /// https://fontawesome.com/icons/palfed?style=brands
+  static const IconData palfed = IconDataBrands(0xf3d8);
 
   /// Light Pallet icon
   ///
@@ -25471,6 +26947,11 @@ class FontAwesomeIcons {
   @Deprecated('Use "thinPaste" instead.')
   static const IconData thinFileClipboard = thinPaste;
 
+  /// Brands Patreon icon
+  ///
+  /// https://fontawesome.com/icons/patreon?style=brands
+  static const IconData patreon = IconDataBrands(0xf3d9);
+
   /// Light pause icon
   ///
   /// https://fontawesome.com/icons/pause?style=light
@@ -25518,6 +26999,11 @@ class FontAwesomeIcons {
   /// Alias paw-alt for icon [thinPawSimple]
   @Deprecated('Use "thinPawSimple" instead.')
   static const IconData thinPawAlt = thinPawSimple;
+
+  /// Brands Paypal icon
+  ///
+  /// https://fontawesome.com/icons/paypal?style=brands
+  static const IconData paypal = IconDataBrands(0xf1ed);
 
   /// Light Peace icon
   ///
@@ -25983,6 +27469,11 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/pepper-hot?style=thin
   static const IconData thinPepperHot = IconDataThin(0xf816);
 
+  /// Brands PerByte icon
+  ///
+  /// https://fontawesome.com/icons/perbyte?style=brands
+  static const IconData perbyte = IconDataBrands(0xe083);
+
   /// Light Percent icon
   ///
   /// https://fontawesome.com/icons/percent?style=light
@@ -26010,6 +27501,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/period?style=thin
   static const IconData thinPeriod = IconDataThin(0x2e);
+
+  /// Brands Periscope icon
+  ///
+  /// https://fontawesome.com/icons/periscope?style=brands
+  static const IconData periscope = IconDataBrands(0xf3da);
 
   /// Light Person icon
   ///
@@ -26847,6 +28343,21 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/peso-sign?style=thin
   static const IconData thinPesoSign = IconDataThin(0xe222);
 
+  /// Brands Phabricator icon
+  ///
+  /// https://fontawesome.com/icons/phabricator?style=brands
+  static const IconData phabricator = IconDataBrands(0xf3db);
+
+  /// Brands Phoenix Framework icon
+  ///
+  /// https://fontawesome.com/icons/phoenix-framework?style=brands
+  static const IconData phoenixFramework = IconDataBrands(0xf3dc);
+
+  /// Brands Phoenix Squadron icon
+  ///
+  /// https://fontawesome.com/icons/phoenix-squadron?style=brands
+  static const IconData phoenixSquadron = IconDataBrands(0xf511);
+
   /// Light Phone icon
   ///
   /// https://fontawesome.com/icons/phone?style=light
@@ -27053,6 +28564,11 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/photo-film-music?style=thin
   static const IconData thinPhotoFilmMusic = IconDataThin(0xe228);
 
+  /// Brands PHP icon
+  ///
+  /// https://fontawesome.com/icons/php?style=brands
+  static const IconData php = IconDataBrands(0xf457);
+
   /// Light Pi icon
   ///
   /// https://fontawesome.com/icons/pi?style=light
@@ -27102,6 +28618,31 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/pie?style=thin
   static const IconData thinPie = IconDataThin(0xf705);
+
+  /// Brands Pied Piper Logo icon
+  ///
+  /// https://fontawesome.com/icons/pied-piper?style=brands
+  static const IconData piedPiper = IconDataBrands(0xf2ae);
+
+  /// Brands Alternate Pied Piper Logo (Old) icon
+  ///
+  /// https://fontawesome.com/icons/pied-piper-alt?style=brands
+  static const IconData piedPiperAlt = IconDataBrands(0xf1a8);
+
+  /// Brands Pied Piper Hat (Old) icon
+  ///
+  /// https://fontawesome.com/icons/pied-piper-hat?style=brands
+  static const IconData piedPiperHat = IconDataBrands(0xf4e5);
+
+  /// Brands Pied Piper PP Logo (Old) icon
+  ///
+  /// https://fontawesome.com/icons/pied-piper-pp?style=brands
+  static const IconData piedPiperPp = IconDataBrands(0xf1a7);
+
+  /// Brands Pied Piper Square Logo (Old) icon
+  ///
+  /// https://fontawesome.com/icons/pied-piper-square?style=brands
+  static const IconData piedPiperSquare = IconDataBrands(0xe01e);
 
   /// Light Pig icon
   ///
@@ -27163,6 +28704,21 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/pineapple?style=thin
   static const IconData thinPineapple = IconDataThin(0xe31f);
 
+  /// Brands Pinterest icon
+  ///
+  /// https://fontawesome.com/icons/pinterest?style=brands
+  static const IconData pinterest = IconDataBrands(0xf0d2);
+
+  /// Brands Pinterest P icon
+  ///
+  /// https://fontawesome.com/icons/pinterest-p?style=brands
+  static const IconData pinterestP = IconDataBrands(0xf231);
+
+  /// Brands Pinterest Square icon
+  ///
+  /// https://fontawesome.com/icons/pinterest-square?style=brands
+  static const IconData pinterestSquare = IconDataBrands(0xf0d3);
+
   /// Light Pipe icon
   ///
   /// https://fontawesome.com/icons/pipe?style=light
@@ -27222,6 +28778,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/pipe-valve?style=thin
   static const IconData thinPipeValve = IconDataThin(0xe439);
+
+  /// Brands Pix icon
+  ///
+  /// https://fontawesome.com/icons/pix?style=brands
+  static const IconData pix = IconDataBrands(0xe43a);
 
   /// Light Pizza icon
   ///
@@ -27460,6 +29021,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/play-pause?style=thin
   static const IconData thinPlayPause = IconDataThin(0xe22f);
+
+  /// Brands PlayStation icon
+  ///
+  /// https://fontawesome.com/icons/playstation?style=brands
+  static const IconData playstation = IconDataBrands(0xf3df);
 
   /// Light Plug icon
   ///
@@ -27823,6 +29389,11 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/print-slash?style=thin
   static const IconData thinPrintSlash = IconDataThin(0xf686);
 
+  /// Brands Product Hunt icon
+  ///
+  /// https://fontawesome.com/icons/product-hunt?style=brands
+  static const IconData productHunt = IconDataBrands(0xf288);
+
   /// Light Projector icon
   ///
   /// https://fontawesome.com/icons/projector?style=light
@@ -27873,6 +29444,11 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/pumpkin?style=thin
   static const IconData thinPumpkin = IconDataThin(0xf707);
 
+  /// Brands Pushed icon
+  ///
+  /// https://fontawesome.com/icons/pushed?style=brands
+  static const IconData pushed = IconDataBrands(0xf3e1);
+
   /// Light Puzzle icon
   ///
   /// https://fontawesome.com/icons/puzzle?style=light
@@ -27911,6 +29487,11 @@ class FontAwesomeIcons {
   @Deprecated('Use "thinPuzzlePieceSimple" instead.')
   static const IconData thinPuzzlePieceAlt = thinPuzzlePieceSimple;
 
+  /// Brands Python icon
+  ///
+  /// https://fontawesome.com/icons/python?style=brands
+  static const IconData python = IconDataBrands(0xf3e2);
+
   /// Light Q icon
   ///
   /// https://fontawesome.com/icons/q?style=light
@@ -27920,6 +29501,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/q?style=thin
   static const IconData thinQ = IconDataThin(0x51);
+
+  /// Brands QQ icon
+  ///
+  /// https://fontawesome.com/icons/qq?style=brands
+  static const IconData qq = IconDataBrands(0xf1d6);
 
   /// Light qrcode icon
   ///
@@ -27940,6 +29526,16 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/question?style=thin
   static const IconData thinQuestion = IconDataThin(0x3f);
+
+  /// Brands QuinScape icon
+  ///
+  /// https://fontawesome.com/icons/quinscape?style=brands
+  static const IconData quinscape = IconDataBrands(0xf459);
+
+  /// Brands Quora icon
+  ///
+  /// https://fontawesome.com/icons/quora?style=brands
+  static const IconData quora = IconDataBrands(0xf2c4);
 
   /// Light quote-left icon
   ///
@@ -27996,6 +29592,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/r?style=thin
   static const IconData thinR = IconDataThin(0x52);
+
+  /// Brands R Project icon
+  ///
+  /// https://fontawesome.com/icons/r-project?style=brands
+  static const IconData rProject = IconDataBrands(0xf4f7);
 
   /// Light Rabbit icon
   ///
@@ -28133,6 +29734,16 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/ranking-star?style=thin
   static const IconData thinRankingStar = IconDataThin(0xe561);
 
+  /// Brands Raspberry Pi icon
+  ///
+  /// https://fontawesome.com/icons/raspberry-pi?style=brands
+  static const IconData raspberryPi = IconDataBrands(0xf7bb);
+
+  /// Brands Ravelry icon
+  ///
+  /// https://fontawesome.com/icons/ravelry?style=brands
+  static const IconData ravelry = IconDataBrands(0xf2d9);
+
   /// Light Raygun icon
   ///
   /// https://fontawesome.com/icons/raygun?style=light
@@ -28142,6 +29753,26 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/raygun?style=thin
   static const IconData thinRaygun = IconDataThin(0xe025);
+
+  /// Brands React icon
+  ///
+  /// https://fontawesome.com/icons/react?style=brands
+  static const IconData react = IconDataBrands(0xf41b);
+
+  /// Brands ReactEurope icon
+  ///
+  /// https://fontawesome.com/icons/reacteurope?style=brands
+  static const IconData reacteurope = IconDataBrands(0xf75d);
+
+  /// Brands ReadMe icon
+  ///
+  /// https://fontawesome.com/icons/readme?style=brands
+  static const IconData readme = IconDataBrands(0xf4d5);
+
+  /// Brands Rebel Alliance icon
+  ///
+  /// https://fontawesome.com/icons/rebel?style=brands
+  static const IconData rebel = IconDataBrands(0xf1d0);
 
   /// Light Receipt icon
   ///
@@ -28395,6 +30026,31 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/recycle?style=thin
   static const IconData thinRecycle = IconDataThin(0xf1b8);
 
+  /// Brands red river icon
+  ///
+  /// https://fontawesome.com/icons/red-river?style=brands
+  static const IconData redRiver = IconDataBrands(0xf3e3);
+
+  /// Brands reddit Logo icon
+  ///
+  /// https://fontawesome.com/icons/reddit?style=brands
+  static const IconData reddit = IconDataBrands(0xf1a1);
+
+  /// Brands reddit Alien icon
+  ///
+  /// https://fontawesome.com/icons/reddit-alien?style=brands
+  static const IconData redditAlien = IconDataBrands(0xf281);
+
+  /// Brands reddit Square icon
+  ///
+  /// https://fontawesome.com/icons/reddit-square?style=brands
+  static const IconData redditSquare = IconDataBrands(0xf1a2);
+
+  /// Brands Redhat icon
+  ///
+  /// https://fontawesome.com/icons/redhat?style=brands
+  static const IconData redhat = IconDataBrands(0xf7bc);
+
   /// Light Reel icon
   ///
   /// https://fontawesome.com/icons/reel?style=light
@@ -28424,6 +30080,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/registered?style=thin
   static const IconData thinRegistered = IconDataThin(0xf25d);
+
+  /// Brands Renren icon
+  ///
+  /// https://fontawesome.com/icons/renren?style=brands
+  static const IconData renren = IconDataBrands(0xf18b);
 
   /// Light Repeat icon
   ///
@@ -28499,6 +30160,11 @@ class FontAwesomeIcons {
   @Deprecated('Use "thinReplyClock" instead.')
   static const IconData thinReplyTime = thinReplyClock;
 
+  /// Brands replyd icon
+  ///
+  /// https://fontawesome.com/icons/replyd?style=brands
+  static const IconData replyd = IconDataBrands(0xf3e6);
+
   /// Light Republican icon
   ///
   /// https://fontawesome.com/icons/republican?style=light
@@ -28508,6 +30174,16 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/republican?style=thin
   static const IconData thinRepublican = IconDataThin(0xf75e);
+
+  /// Brands Researchgate icon
+  ///
+  /// https://fontawesome.com/icons/researchgate?style=brands
+  static const IconData researchgate = IconDataBrands(0xf4f8);
+
+  /// Brands Resolving icon
+  ///
+  /// https://fontawesome.com/icons/resolving?style=brands
+  static const IconData resolving = IconDataBrands(0xf3e7);
 
   /// Light Restroom icon
   ///
@@ -28538,6 +30214,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/retweet?style=thin
   static const IconData thinRetweet = IconDataThin(0xf079);
+
+  /// Brands Rev.io icon
+  ///
+  /// https://fontawesome.com/icons/rev?style=brands
+  static const IconData rev = IconDataBrands(0xf5b2);
 
   /// Light Rhombus icon
   ///
@@ -28835,6 +30516,16 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/rocket-launch?style=thin
   static const IconData thinRocketLaunch = IconDataThin(0xe027);
 
+  /// Brands Rocket.Chat icon
+  ///
+  /// https://fontawesome.com/icons/rocketchat?style=brands
+  static const IconData rocketchat = IconDataBrands(0xf3e8);
+
+  /// Brands Rockrms icon
+  ///
+  /// https://fontawesome.com/icons/rockrms?style=brands
+  static const IconData rockrms = IconDataBrands(0xf3e9);
+
   /// Light Roller Coaster icon
   ///
   /// https://fontawesome.com/icons/roller-coaster?style=light
@@ -29123,6 +30814,11 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/rupiah-sign?style=thin
   static const IconData thinRupiahSign = IconDataThin(0xe23d);
 
+  /// Brands Rust icon
+  ///
+  /// https://fontawesome.com/icons/rust?style=brands
+  static const IconData rust = IconDataBrands(0xe07a);
+
   /// Light R.V. icon
   ///
   /// https://fontawesome.com/icons/rv?style=light
@@ -29173,6 +30869,11 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/sack-xmark?style=thin
   static const IconData thinSackXmark = IconDataThin(0xe56a);
 
+  /// Brands Safari icon
+  ///
+  /// https://fontawesome.com/icons/safari?style=brands
+  static const IconData safari = IconDataBrands(0xf267);
+
   /// Light Sailboat icon
   ///
   /// https://fontawesome.com/icons/sailboat?style=light
@@ -29201,6 +30902,11 @@ class FontAwesomeIcons {
   @Deprecated('Use "thinSalad" instead.')
   static const IconData thinBowlSalad = thinSalad;
 
+  /// Brands Salesforce icon
+  ///
+  /// https://fontawesome.com/icons/salesforce?style=brands
+  static const IconData salesforce = IconDataBrands(0xf83b);
+
   /// Light Salt Shaker icon
   ///
   /// https://fontawesome.com/icons/salt-shaker?style=light
@@ -29220,6 +30926,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/sandwich?style=thin
   static const IconData thinSandwich = IconDataThin(0xf81f);
+
+  /// Brands Sass icon
+  ///
+  /// https://fontawesome.com/icons/sass?style=brands
+  static const IconData sass = IconDataBrands(0xf41e);
 
   /// Light Satellite icon
   ///
@@ -29429,6 +31140,11 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/scarf?style=thin
   static const IconData thinScarf = IconDataThin(0xf7c1);
 
+  /// Brands SCHLIX icon
+  ///
+  /// https://fontawesome.com/icons/schlix?style=brands
+  static const IconData schlix = IconDataBrands(0xf3ea);
+
   /// Light School icon
   ///
   /// https://fontawesome.com/icons/school?style=light
@@ -29535,6 +31251,11 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/screencast?style=thin
   static const IconData thinScreencast = IconDataThin(0xe23e);
 
+  /// Brands Screenpal icon
+  ///
+  /// https://fontawesome.com/icons/screenpal?style=brands
+  static const IconData screenpal = IconDataBrands(0xe570);
+
   /// Light Screwdriver icon
   ///
   /// https://fontawesome.com/icons/screwdriver?style=light
@@ -29572,6 +31293,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/scribble?style=thin
   static const IconData thinScribble = IconDataThin(0xe23f);
+
+  /// Brands Scribd icon
+  ///
+  /// https://fontawesome.com/icons/scribd?style=brands
+  static const IconData scribd = IconDataBrands(0xf28a);
 
   /// Light Scroll icon
   ///
@@ -29681,6 +31407,11 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/seal-question?style=thin
   static const IconData thinSealQuestion = IconDataThin(0xe243);
 
+  /// Brands Searchengin icon
+  ///
+  /// https://fontawesome.com/icons/searchengin?style=brands
+  static const IconData searchengin = IconDataBrands(0xf3eb);
+
   /// Light Seat Airline icon
   ///
   /// https://fontawesome.com/icons/seat-airline?style=light
@@ -29718,6 +31449,16 @@ class FontAwesomeIcons {
   /// Alias sprout for icon [thinSeedling]
   @Deprecated('Use "thinSeedling" instead.')
   static const IconData thinSprout = thinSeedling;
+
+  /// Brands Sellcast icon
+  ///
+  /// https://fontawesome.com/icons/sellcast?style=brands
+  static const IconData sellcast = IconDataBrands(0xf2da);
+
+  /// Brands Sellsy icon
+  ///
+  /// https://fontawesome.com/icons/sellsy?style=brands
+  static const IconData sellsy = IconDataBrands(0xf213);
 
   /// Light Semicolon icon
   ///
@@ -29824,6 +31565,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/server?style=thin
   static const IconData thinServer = IconDataThin(0xf233);
+
+  /// Brands Servicestack icon
+  ///
+  /// https://fontawesome.com/icons/servicestack?style=brands
+  static const IconData servicestack = IconDataBrands(0xf3ec);
 
   /// Light Shapes icon
   ///
@@ -30245,6 +31991,11 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/shirt-tank-top?style=thin
   static const IconData thinShirtTankTop = IconDataThin(0xe3c9);
 
+  /// Brands Shirts in Bulk icon
+  ///
+  /// https://fontawesome.com/icons/shirtsinbulk?style=brands
+  static const IconData shirtsinbulk = IconDataBrands(0xf214);
+
   /// Light Shish Kebab icon
   ///
   /// https://fontawesome.com/icons/shish-kebab?style=light
@@ -30310,6 +32061,16 @@ class FontAwesomeIcons {
   /// Alias store-alt-slash for icon [thinShopSlash]
   @Deprecated('Use "thinShopSlash" instead.')
   static const IconData thinStoreAltSlash = thinShopSlash;
+
+  /// Brands Shopify icon
+  ///
+  /// https://fontawesome.com/icons/shopify?style=brands
+  static const IconData shopify = IconDataBrands(0xe057);
+
+  /// Brands Shopware icon
+  ///
+  /// https://fontawesome.com/icons/shopware?style=brands
+  static const IconData shopware = IconDataBrands(0xf5b5);
 
   /// Light Shovel icon
   ///
@@ -30795,6 +32556,11 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/sim-cards?style=thin
   static const IconData thinSimCards = IconDataThin(0xe251);
 
+  /// Brands SimplyBuilt icon
+  ///
+  /// https://fontawesome.com/icons/simplybuilt?style=brands
+  static const IconData simplybuilt = IconDataBrands(0xf215);
+
   /// Light Sink icon
   ///
   /// https://fontawesome.com/icons/sink?style=light
@@ -30825,6 +32591,11 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/siren-on?style=thin
   static const IconData thinSirenOn = IconDataThin(0xe02e);
 
+  /// Brands SISTRIX icon
+  ///
+  /// https://fontawesome.com/icons/sistrix?style=brands
+  static const IconData sistrix = IconDataBrands(0xf3ee);
+
   /// Light Sitemap icon
   ///
   /// https://fontawesome.com/icons/sitemap?style=light
@@ -30835,6 +32606,16 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/sitemap?style=thin
   static const IconData thinSitemap = IconDataThin(0xf0e8);
 
+  /// Brands Sith icon
+  ///
+  /// https://fontawesome.com/icons/sith?style=brands
+  static const IconData sith = IconDataBrands(0xf512);
+
+  /// Brands Sitrox icon
+  ///
+  /// https://fontawesome.com/icons/sitrox?style=brands
+  static const IconData sitrox = IconDataBrands(0xe44a);
+
   /// Light Skeleton icon
   ///
   /// https://fontawesome.com/icons/skeleton?style=light
@@ -30844,6 +32625,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/skeleton?style=thin
   static const IconData thinSkeleton = IconDataThin(0xf620);
+
+  /// Brands Sketch icon
+  ///
+  /// https://fontawesome.com/icons/sketch?style=brands
+  static const IconData sketch = IconDataBrands(0xf7c6);
 
   /// Light Ski Boot icon
   ///
@@ -30894,6 +32680,25 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/skull-crossbones?style=thin
   static const IconData thinSkullCrossbones = IconDataThin(0xf714);
+
+  /// Brands skyatlas icon
+  ///
+  /// https://fontawesome.com/icons/skyatlas?style=brands
+  static const IconData skyatlas = IconDataBrands(0xf216);
+
+  /// Brands Skype icon
+  ///
+  /// https://fontawesome.com/icons/skype?style=brands
+  static const IconData skype = IconDataBrands(0xf17e);
+
+  /// Brands Slack Logo icon
+  ///
+  /// https://fontawesome.com/icons/slack?style=brands
+  static const IconData slack = IconDataBrands(0xf198);
+
+  /// Alias slack-hash for icon [slack]
+  @Deprecated('Use "slack" instead.')
+  static const IconData slackHash = slack;
 
   /// Light Slash icon
   ///
@@ -30991,6 +32796,11 @@ class FontAwesomeIcons {
   @Deprecated('Use "thinSlidersUp" instead.')
   static const IconData thinSlidersV = thinSlidersUp;
 
+  /// Brands Slideshare icon
+  ///
+  /// https://fontawesome.com/icons/slideshare?style=brands
+  static const IconData slideshare = IconDataBrands(0xf1e7);
+
   /// Light Slot Machine icon
   ///
   /// https://fontawesome.com/icons/slot-machine?style=light
@@ -31040,6 +32850,20 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/snake?style=thin
   static const IconData thinSnake = IconDataThin(0xf716);
+
+  /// Brands Snapchat icon
+  ///
+  /// https://fontawesome.com/icons/snapchat?style=brands
+  static const IconData snapchat = IconDataBrands(0xf2ab);
+
+  /// Alias snapchat-ghost for icon [snapchat]
+  @Deprecated('Use "snapchat" instead.')
+  static const IconData snapchatGhost = snapchat;
+
+  /// Brands Snapchat Square icon
+  ///
+  /// https://fontawesome.com/icons/snapchat-square?style=brands
+  static const IconData snapchatSquare = IconDataBrands(0xf2ad);
 
   /// Light Snooze icon
   ///
@@ -31239,6 +33063,16 @@ class FontAwesomeIcons {
   @Deprecated('Use "thinSortUp" instead.')
   static const IconData thinSortAsc = thinSortUp;
 
+  /// Brands SoundCloud icon
+  ///
+  /// https://fontawesome.com/icons/soundcloud?style=brands
+  static const IconData soundcloud = IconDataBrands(0xf1be);
+
+  /// Brands Sourcetree icon
+  ///
+  /// https://fontawesome.com/icons/sourcetree?style=brands
+  static const IconData sourcetree = IconDataBrands(0xf7d3);
+
   /// Light Spa icon
   ///
   /// https://fontawesome.com/icons/spa?style=light
@@ -31318,6 +33152,11 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/sparkles?style=thin
   static const IconData thinSparkles = IconDataThin(0xf890);
 
+  /// Brands Speakap icon
+  ///
+  /// https://fontawesome.com/icons/speakap?style=brands
+  static const IconData speakap = IconDataBrands(0xf3f3);
+
   /// Light Speaker icon
   ///
   /// https://fontawesome.com/icons/speaker?style=light
@@ -31327,6 +33166,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/speaker?style=thin
   static const IconData thinSpeaker = IconDataThin(0xf8df);
+
+  /// Brands Speaker Deck icon
+  ///
+  /// https://fontawesome.com/icons/speaker-deck?style=brands
+  static const IconData speakerDeck = IconDataBrands(0xf83c);
 
   /// Light Speakers icon
   ///
@@ -31445,6 +33289,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/sportsball?style=thin
   static const IconData thinSportsball = IconDataThin(0xe44b);
+
+  /// Brands Spotify icon
+  ///
+  /// https://fontawesome.com/icons/spotify?style=brands
+  static const IconData spotify = IconDataBrands(0xf1bc);
 
   /// Light Spray Can icon
   ///
@@ -32125,6 +33974,20 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/square-f?style=thin
   static const IconData thinSquareF = IconDataThin(0xe270);
+
+  /// Brands Font Awesome in Square icon
+  ///
+  /// https://fontawesome.com/icons/square-font-awesome?style=brands
+  static const IconData squareFontAwesome = IconDataBrands(0xf425);
+
+  /// Brands Font Awesome in Square with Stroke Outline icon
+  ///
+  /// https://fontawesome.com/icons/square-font-awesome-stroke?style=brands
+  static const IconData squareFontAwesomeStroke = IconDataBrands(0xf35c);
+
+  /// Alias font-awesome-alt for icon [squareFontAwesomeStroke]
+  @Deprecated('Use "squareFontAwesomeStroke" instead.')
+  static const IconData fontAwesomeAlt = squareFontAwesomeStroke;
 
   /// Light Square fragile icon
   ///
@@ -32958,6 +34821,11 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/square-z?style=thin
   static const IconData thinSquareZ = IconDataThin(0xe288);
 
+  /// Brands Squarespace icon
+  ///
+  /// https://fontawesome.com/icons/squarespace?style=brands
+  static const IconData squarespace = IconDataBrands(0xf5be);
+
   /// Light Squid icon
   ///
   /// https://fontawesome.com/icons/squid?style=light
@@ -32977,6 +34845,21 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/squirrel?style=thin
   static const IconData thinSquirrel = IconDataThin(0xf71a);
+
+  /// Brands Stack Exchange icon
+  ///
+  /// https://fontawesome.com/icons/stack-exchange?style=brands
+  static const IconData stackExchange = IconDataBrands(0xf18d);
+
+  /// Brands Stack Overflow icon
+  ///
+  /// https://fontawesome.com/icons/stack-overflow?style=brands
+  static const IconData stackOverflow = IconDataBrands(0xf16c);
+
+  /// Brands Stackpath icon
+  ///
+  /// https://fontawesome.com/icons/stackpath?style=brands
+  static const IconData stackpath = IconDataBrands(0xf842);
 
   /// Light Staff icon
   ///
@@ -33276,6 +35159,11 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/starship-freighter?style=thin
   static const IconData thinStarshipFreighter = IconDataThin(0xe03a);
 
+  /// Brands StayLinked icon
+  ///
+  /// https://fontawesome.com/icons/staylinked?style=brands
+  static const IconData staylinked = IconDataBrands(0xf3f5);
+
   /// Light Steak icon
   ///
   /// https://fontawesome.com/icons/steak?style=light
@@ -33285,6 +35173,21 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/steak?style=thin
   static const IconData thinSteak = IconDataThin(0xf824);
+
+  /// Brands Steam icon
+  ///
+  /// https://fontawesome.com/icons/steam?style=brands
+  static const IconData steam = IconDataBrands(0xf1b6);
+
+  /// Brands Steam Square icon
+  ///
+  /// https://fontawesome.com/icons/steam-square?style=brands
+  static const IconData steamSquare = IconDataBrands(0xf1b7);
+
+  /// Brands Steam Symbol icon
+  ///
+  /// https://fontawesome.com/icons/steam-symbol?style=brands
+  static const IconData steamSymbol = IconDataBrands(0xf3f6);
 
   /// Light Wheel Steering icon
   ///
@@ -33331,6 +35234,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/stethoscope?style=thin
   static const IconData thinStethoscope = IconDataThin(0xf0f1);
+
+  /// Brands Sticker Mule icon
+  ///
+  /// https://fontawesome.com/icons/sticker-mule?style=brands
+  static const IconData stickerMule = IconDataBrands(0xf3f7);
 
   /// Light Stocking icon
   ///
@@ -33412,6 +35320,11 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/store-slash?style=thin
   static const IconData thinStoreSlash = IconDataThin(0xe071);
 
+  /// Brands Strava icon
+  ///
+  /// https://fontawesome.com/icons/strava?style=brands
+  static const IconData strava = IconDataBrands(0xf428);
+
   /// Light Strawberry icon
   ///
   /// https://fontawesome.com/icons/strawberry?style=light
@@ -33452,6 +35365,16 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/strikethrough?style=thin
   static const IconData thinStrikethrough = IconDataThin(0xf0cc);
 
+  /// Brands Stripe icon
+  ///
+  /// https://fontawesome.com/icons/stripe?style=brands
+  static const IconData stripe = IconDataBrands(0xf429);
+
+  /// Brands Stripe S icon
+  ///
+  /// https://fontawesome.com/icons/stripe-s?style=brands
+  static const IconData stripeS = IconDataBrands(0xf42a);
+
   /// Light Stroopwafel icon
   ///
   /// https://fontawesome.com/icons/stroopwafel?style=light
@@ -33461,6 +35384,21 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/stroopwafel?style=thin
   static const IconData thinStroopwafel = IconDataThin(0xf551);
+
+  /// Brands Studio Vinari icon
+  ///
+  /// https://fontawesome.com/icons/studiovinari?style=brands
+  static const IconData studiovinari = IconDataBrands(0xf3f8);
+
+  /// Brands StumbleUpon Logo icon
+  ///
+  /// https://fontawesome.com/icons/stumbleupon?style=brands
+  static const IconData stumbleupon = IconDataBrands(0xf1a4);
+
+  /// Brands StumbleUpon Circle icon
+  ///
+  /// https://fontawesome.com/icons/stumbleupon-circle?style=brands
+  static const IconData stumbleuponCircle = IconDataBrands(0xf1a3);
 
   /// Light subscript icon
   ///
@@ -33608,6 +35546,11 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/sunset?style=thin
   static const IconData thinSunset = IconDataThin(0xf767);
 
+  /// Brands Superpowers icon
+  ///
+  /// https://fontawesome.com/icons/superpowers?style=brands
+  static const IconData superpowers = IconDataBrands(0xf2dd);
+
   /// Light superscript icon
   ///
   /// https://fontawesome.com/icons/superscript?style=light
@@ -33617,6 +35560,16 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/superscript?style=thin
   static const IconData thinSuperscript = IconDataThin(0xf12b);
+
+  /// Brands Supple icon
+  ///
+  /// https://fontawesome.com/icons/supple?style=brands
+  static const IconData supple = IconDataBrands(0xf3f9);
+
+  /// Brands Suse icon
+  ///
+  /// https://fontawesome.com/icons/suse?style=brands
+  static const IconData suse = IconDataBrands(0xf7d6);
 
   /// Light Sushi icon
   ///
@@ -33671,6 +35624,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/swatchbook?style=thin
   static const IconData thinSwatchbook = IconDataThin(0xf5c3);
+
+  /// Brands Swift icon
+  ///
+  /// https://fontawesome.com/icons/swift?style=brands
+  static const IconData swift = IconDataBrands(0xf8e1);
 
   /// Light Sword icon
   ///
@@ -33739,6 +35697,11 @@ class FontAwesomeIcons {
   /// Alias icons-alt for icon [thinSymbols]
   @Deprecated('Use "thinSymbols" instead.')
   static const IconData thinIconsAlt = thinSymbols;
+
+  /// Brands Symfony icon
+  ///
+  /// https://fontawesome.com/icons/symfony?style=brands
+  static const IconData symfony = IconDataBrands(0xf83d);
 
   /// Light Synagogue icon
   ///
@@ -34204,6 +36167,11 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/taxi-bus?style=thin
   static const IconData thinTaxiBus = IconDataThin(0xe298);
 
+  /// Brands TeamSpeak icon
+  ///
+  /// https://fontawesome.com/icons/teamspeak?style=brands
+  static const IconData teamspeak = IconDataBrands(0xf4f9);
+
   /// Light Teddy Bear icon
   ///
   /// https://fontawesome.com/icons/teddy-bear?style=light
@@ -34233,6 +36201,15 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/teeth-open?style=thin
   static const IconData thinTeethOpen = IconDataThin(0xf62f);
+
+  /// Brands Telegram icon
+  ///
+  /// https://fontawesome.com/icons/telegram?style=brands
+  static const IconData telegram = IconDataBrands(0xf2c6);
+
+  /// Alias telegram-plane for icon [telegram]
+  @Deprecated('Use "telegram" instead.')
+  static const IconData telegramPlane = telegram;
 
   /// Light Telescope icon
   ///
@@ -34518,6 +36495,11 @@ class FontAwesomeIcons {
   static const IconData thinThermometerThreeQuarters =
       thinTemperatureThreeQuarters;
 
+  /// Brands Tencent Weibo icon
+  ///
+  /// https://fontawesome.com/icons/tencent-weibo?style=brands
+  static const IconData tencentWeibo = IconDataBrands(0xf1d5);
+
   /// Light Tenge sign icon
   ///
   /// https://fontawesome.com/icons/tenge-sign?style=light
@@ -34674,6 +36656,21 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/text-width?style=thin
   static const IconData thinTextWidth = IconDataThin(0xf035);
 
+  /// Brands The Red Yeti icon
+  ///
+  /// https://fontawesome.com/icons/the-red-yeti?style=brands
+  static const IconData theRedYeti = IconDataBrands(0xf69d);
+
+  /// Brands Themeco icon
+  ///
+  /// https://fontawesome.com/icons/themeco?style=brands
+  static const IconData themeco = IconDataBrands(0xf5c6);
+
+  /// Brands ThemeIsle icon
+  ///
+  /// https://fontawesome.com/icons/themeisle?style=brands
+  static const IconData themeisle = IconDataBrands(0xf2b2);
+
   /// Light Thermometer icon
   ///
   /// https://fontawesome.com/icons/thermometer?style=light
@@ -34693,6 +36690,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/theta?style=thin
   static const IconData thinTheta = IconDataThin(0xf69e);
+
+  /// Brands Think Peaks icon
+  ///
+  /// https://fontawesome.com/icons/think-peaks?style=brands
+  static const IconData thinkPeaks = IconDataBrands(0xf731);
 
   /// Light Thought Bubble icon
   ///
@@ -34799,6 +36801,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/tickets-airline?style=thin
   static const IconData thinTicketsAirline = IconDataThin(0xe29b);
+
+  /// Brands TikTok icon
+  ///
+  /// https://fontawesome.com/icons/tiktok?style=brands
+  static const IconData tiktok = IconDataBrands(0xe07b);
 
   /// Light Tilde icon
   ///
@@ -35168,6 +37175,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/tractor?style=thin
   static const IconData thinTractor = IconDataThin(0xf722);
+
+  /// Brands Trade Federation icon
+  ///
+  /// https://fontawesome.com/icons/trade-federation?style=brands
+  static const IconData tradeFederation = IconDataBrands(0xf513);
 
   /// Light Trademark icon
   ///
@@ -35775,6 +37787,11 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/trees?style=thin
   static const IconData thinTrees = IconDataThin(0xf724);
 
+  /// Brands Trello icon
+  ///
+  /// https://fontawesome.com/icons/trello?style=brands
+  static const IconData trello = IconDataBrands(0xf181);
+
   /// Light Triangle icon
   ///
   /// https://fontawesome.com/icons/triangle?style=light
@@ -36221,6 +38238,16 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/tugrik-sign?style=thin
   static const IconData thinTugrikSign = IconDataThin(0xe2ba);
 
+  /// Brands Tumblr icon
+  ///
+  /// https://fontawesome.com/icons/tumblr?style=brands
+  static const IconData tumblr = IconDataBrands(0xf173);
+
+  /// Brands Tumblr Square icon
+  ///
+  /// https://fontawesome.com/icons/tumblr-square?style=brands
+  static const IconData tumblrSquare = IconDataBrands(0xf174);
+
   /// Light Turkey icon
   ///
   /// https://fontawesome.com/icons/turkey?style=light
@@ -36371,6 +38398,21 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/tv-retro?style=thin
   static const IconData thinTvRetro = IconDataThin(0xf401);
 
+  /// Brands Twitch icon
+  ///
+  /// https://fontawesome.com/icons/twitch?style=brands
+  static const IconData twitch = IconDataBrands(0xf1e8);
+
+  /// Brands Twitter icon
+  ///
+  /// https://fontawesome.com/icons/twitter?style=brands
+  static const IconData twitter = IconDataBrands(0xf099);
+
+  /// Brands Twitter Square icon
+  ///
+  /// https://fontawesome.com/icons/twitter-square?style=brands
+  static const IconData twitterSquare = IconDataBrands(0xf081);
+
   /// Light Typewriter icon
   ///
   /// https://fontawesome.com/icons/typewriter?style=light
@@ -36381,6 +38423,11 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/typewriter?style=thin
   static const IconData thinTypewriter = IconDataThin(0xf8e7);
 
+  /// Brands Typo3 icon
+  ///
+  /// https://fontawesome.com/icons/typo3?style=brands
+  static const IconData typo3 = IconDataBrands(0xf42b);
+
   /// Light U icon
   ///
   /// https://fontawesome.com/icons/u?style=light
@@ -36390,6 +38437,16 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/u?style=thin
   static const IconData thinU = IconDataThin(0x55);
+
+  /// Brands Uber icon
+  ///
+  /// https://fontawesome.com/icons/uber?style=brands
+  static const IconData uber = IconDataBrands(0xf402);
+
+  /// Brands Ubuntu icon
+  ///
+  /// https://fontawesome.com/icons/ubuntu?style=brands
+  static const IconData ubuntu = IconDataBrands(0xf7df);
 
   /// Light U.F.O. icon
   ///
@@ -36410,6 +38467,16 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/ufo-beam?style=thin
   static const IconData thinUfoBeam = IconDataThin(0xe048);
+
+  /// Brands UIkit icon
+  ///
+  /// https://fontawesome.com/icons/uikit?style=brands
+  static const IconData uikit = IconDataBrands(0xf403);
+
+  /// Brands Umbraco icon
+  ///
+  /// https://fontawesome.com/icons/umbraco?style=brands
+  static const IconData umbraco = IconDataBrands(0xf8e8);
 
   /// Light Umbrella icon
   ///
@@ -36448,6 +38515,11 @@ class FontAwesomeIcons {
   /// Alias umbrella-alt for icon [thinUmbrellaSimple]
   @Deprecated('Use "thinUmbrellaSimple" instead.')
   static const IconData thinUmbrellaAlt = thinUmbrellaSimple;
+
+  /// Brands Uncharted Software icon
+  ///
+  /// https://fontawesome.com/icons/uncharted?style=brands
+  static const IconData uncharted = IconDataBrands(0xe084);
 
   /// Light Underline icon
   ///
@@ -36489,6 +38561,16 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/union?style=thin
   static const IconData thinUnion = IconDataThin(0xf6a2);
 
+  /// Brands Uniregistry icon
+  ///
+  /// https://fontawesome.com/icons/uniregistry?style=brands
+  static const IconData uniregistry = IconDataBrands(0xf404);
+
+  /// Brands Unity 3D icon
+  ///
+  /// https://fontawesome.com/icons/unity?style=brands
+  static const IconData unity = IconDataBrands(0xe049);
+
   /// Light Universal Access icon
   ///
   /// https://fontawesome.com/icons/universal-access?style=light
@@ -36526,6 +38608,16 @@ class FontAwesomeIcons {
   /// Alias unlock-alt for icon [thinUnlockKeyhole]
   @Deprecated('Use "thinUnlockKeyhole" instead.')
   static const IconData thinUnlockAlt = thinUnlockKeyhole;
+
+  /// Brands Unsplash icon
+  ///
+  /// https://fontawesome.com/icons/unsplash?style=brands
+  static const IconData unsplash = IconDataBrands(0xe07c);
+
+  /// Brands Untappd icon
+  ///
+  /// https://fontawesome.com/icons/untappd?style=brands
+  static const IconData untappd = IconDataBrands(0xf405);
 
   /// Light Up icon
   ///
@@ -36731,6 +38823,16 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/upload?style=thin
   static const IconData thinUpload = IconDataThin(0xf093);
+
+  /// Brands UPS icon
+  ///
+  /// https://fontawesome.com/icons/ups?style=brands
+  static const IconData ups = IconDataBrands(0xf7e0);
+
+  /// Brands USB icon
+  ///
+  /// https://fontawesome.com/icons/usb?style=brands
+  static const IconData usb = IconDataBrands(0xf287);
 
   /// Light USB Drive icon
   ///
@@ -37502,6 +39604,16 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/users-viewfinder?style=thin
   static const IconData thinUsersViewfinder = IconDataThin(0xe595);
 
+  /// Brands United States Postal Service icon
+  ///
+  /// https://fontawesome.com/icons/usps?style=brands
+  static const IconData usps = IconDataBrands(0xf7e1);
+
+  /// Brands us-Sunnah Foundation icon
+  ///
+  /// https://fontawesome.com/icons/ussunnah?style=brands
+  static const IconData ussunnah = IconDataBrands(0xf407);
+
   /// Light Utensils icon
   ///
   /// https://fontawesome.com/icons/utensils?style=light
@@ -37559,6 +39671,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/v?style=thin
   static const IconData thinV = IconDataThin(0x56);
+
+  /// Brands Vaadin icon
+  ///
+  /// https://fontawesome.com/icons/vaadin?style=brands
+  static const IconData vaadin = IconDataBrands(0xf408);
 
   /// Light Vacuum icon
   ///
@@ -37708,6 +39825,21 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/vest-patches?style=thin
   static const IconData thinVestPatches = IconDataThin(0xe086);
 
+  /// Brands Viacoin icon
+  ///
+  /// https://fontawesome.com/icons/viacoin?style=brands
+  static const IconData viacoin = IconDataBrands(0xf237);
+
+  /// Brands Viadeo icon
+  ///
+  /// https://fontawesome.com/icons/viadeo?style=brands
+  static const IconData viadeo = IconDataBrands(0xf2a9);
+
+  /// Brands Viadeo Square icon
+  ///
+  /// https://fontawesome.com/icons/viadeo-square?style=brands
+  static const IconData viadeoSquare = IconDataBrands(0xf2aa);
+
   /// Light Vial icon
   ///
   /// https://fontawesome.com/icons/vial?style=light
@@ -37747,6 +39879,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/vials?style=thin
   static const IconData thinVials = IconDataThin(0xf493);
+
+  /// Brands Viber icon
+  ///
+  /// https://fontawesome.com/icons/viber?style=brands
+  static const IconData viber = IconDataBrands(0xf409);
 
   /// Light Video icon
   ///
@@ -37816,6 +39953,26 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/vihara?style=thin
   static const IconData thinVihara = IconDataThin(0xf6a7);
 
+  /// Brands Vimeo icon
+  ///
+  /// https://fontawesome.com/icons/vimeo?style=brands
+  static const IconData vimeo = IconDataBrands(0xf40a);
+
+  /// Brands Vimeo Square icon
+  ///
+  /// https://fontawesome.com/icons/vimeo-square?style=brands
+  static const IconData vimeoSquare = IconDataBrands(0xf194);
+
+  /// Brands Vimeo icon
+  ///
+  /// https://fontawesome.com/icons/vimeo-v?style=brands
+  static const IconData vimeoV = IconDataBrands(0xf27d);
+
+  /// Brands Vine icon
+  ///
+  /// https://fontawesome.com/icons/vine?style=brands
+  static const IconData vine = IconDataBrands(0xf1ca);
+
   /// Light Violin icon
   ///
   /// https://fontawesome.com/icons/violin?style=light
@@ -37875,6 +40032,16 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/viruses?style=thin
   static const IconData thinViruses = IconDataThin(0xe076);
+
+  /// Brands VK icon
+  ///
+  /// https://fontawesome.com/icons/vk?style=brands
+  static const IconData vk = IconDataBrands(0xf189);
+
+  /// Brands VNV icon
+  ///
+  /// https://fontawesome.com/icons/vnv?style=brands
+  static const IconData vnv = IconDataBrands(0xf40b);
 
   /// Light Voicemail icon
   ///
@@ -38023,6 +40190,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/vr-cardboard?style=thin
   static const IconData thinVrCardboard = IconDataThin(0xf729);
+
+  /// Brands Vue.js icon
+  ///
+  /// https://fontawesome.com/icons/vuejs?style=brands
+  static const IconData vuejs = IconDataBrands(0xf41f);
 
   /// Light W icon
   ///
@@ -38236,6 +40408,11 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/watch-smart?style=thin
   static const IconData thinWatchSmart = IconDataThin(0xe2cc);
 
+  /// Brands Watchman Monitoring icon
+  ///
+  /// https://fontawesome.com/icons/watchman-monitoring?style=brands
+  static const IconData watchmanMonitoring = IconDataBrands(0xe087);
+
   /// Light Water icon
   ///
   /// https://fontawesome.com/icons/water?style=light
@@ -38394,6 +40571,21 @@ class FontAwesomeIcons {
   @Deprecated('Use "thinWaveformLines" instead.')
   static const IconData thinWaveformPath = thinWaveformLines;
 
+  /// Brands Waze icon
+  ///
+  /// https://fontawesome.com/icons/waze?style=brands
+  static const IconData waze = IconDataBrands(0xf83f);
+
+  /// Brands Weebly icon
+  ///
+  /// https://fontawesome.com/icons/weebly?style=brands
+  static const IconData weebly = IconDataBrands(0xf5cc);
+
+  /// Brands Weibo icon
+  ///
+  /// https://fontawesome.com/icons/weibo?style=brands
+  static const IconData weibo = IconDataBrands(0xf18a);
+
   /// Light Hanging Weight icon
   ///
   /// https://fontawesome.com/icons/weight-hanging?style=light
@@ -38422,6 +40614,11 @@ class FontAwesomeIcons {
   @Deprecated('Use "thinWeightScale" instead.')
   static const IconData thinWeight = thinWeightScale;
 
+  /// Brands Weixin (WeChat) icon
+  ///
+  /// https://fontawesome.com/icons/weixin?style=brands
+  static const IconData weixin = IconDataBrands(0xf1d7);
+
   /// Light Whale icon
   ///
   /// https://fontawesome.com/icons/whale?style=light
@@ -38431,6 +40628,16 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/whale?style=thin
   static const IconData thinWhale = IconDataThin(0xf72c);
+
+  /// Brands What's App icon
+  ///
+  /// https://fontawesome.com/icons/whatsapp?style=brands
+  static const IconData whatsapp = IconDataBrands(0xf232);
+
+  /// Brands What's App Square icon
+  ///
+  /// https://fontawesome.com/icons/whatsapp-square?style=brands
+  static const IconData whatsappSquare = IconDataBrands(0xf40c);
 
   /// Light Wheat icon
   ///
@@ -38564,6 +40771,11 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/whistle?style=thin
   static const IconData thinWhistle = IconDataThin(0xf460);
 
+  /// Brands WHMCS icon
+  ///
+  /// https://fontawesome.com/icons/whmcs?style=brands
+  static const IconData whmcs = IconDataBrands(0xf40d);
+
   /// Light WiFi icon
   ///
   /// https://fontawesome.com/icons/wifi?style=light
@@ -38645,6 +40857,11 @@ class FontAwesomeIcons {
   /// Alias wifi-1 for icon [thinWifiWeak]
   @Deprecated('Use "thinWifiWeak" instead.')
   static const IconData thinWifi1 = thinWifiWeak;
+
+  /// Brands Wikipedia W icon
+  ///
+  /// https://fontawesome.com/icons/wikipedia-w?style=brands
+  static const IconData wikipediaW = IconDataBrands(0xf266);
 
   /// Light Wind icon
   ///
@@ -38762,6 +40979,11 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/window-restore?style=thin
   static const IconData thinWindowRestore = IconDataThin(0xf2d2);
 
+  /// Brands Windows icon
+  ///
+  /// https://fontawesome.com/icons/windows?style=brands
+  static const IconData windows = IconDataBrands(0xf17a);
+
   /// Light Windsock icon
   ///
   /// https://fontawesome.com/icons/windsock?style=light
@@ -38828,6 +41050,35 @@ class FontAwesomeIcons {
   @Deprecated('Use "thinWineGlassEmpty" instead.')
   static const IconData thinWineGlassAlt = thinWineGlassEmpty;
 
+  /// Brands wirsindhandwerk icon
+  ///
+  /// https://fontawesome.com/icons/wirsindhandwerk?style=brands
+  static const IconData wirsindhandwerk = IconDataBrands(0xe2d0);
+
+  /// Alias wsh for icon [wirsindhandwerk]
+  @Deprecated('Use "wirsindhandwerk" instead.')
+  static const IconData wsh = wirsindhandwerk;
+
+  /// Brands Wix icon
+  ///
+  /// https://fontawesome.com/icons/wix?style=brands
+  static const IconData wix = IconDataBrands(0xf5cf);
+
+  /// Brands Wizards of the Coast icon
+  ///
+  /// https://fontawesome.com/icons/wizards-of-the-coast?style=brands
+  static const IconData wizardsOfTheCoast = IconDataBrands(0xf730);
+
+  /// Brands Wodu icon
+  ///
+  /// https://fontawesome.com/icons/wodu?style=brands
+  static const IconData wodu = IconDataBrands(0xe088);
+
+  /// Brands Wolf Pack Battalion icon
+  ///
+  /// https://fontawesome.com/icons/wolf-pack-battalion?style=brands
+  static const IconData wolfPackBattalion = IconDataBrands(0xf514);
+
   /// Light Won Sign icon
   ///
   /// https://fontawesome.com/icons/won-sign?style=light
@@ -38854,6 +41105,16 @@ class FontAwesomeIcons {
   @Deprecated('Use "thinWonSign" instead.')
   static const IconData thinWon = thinWonSign;
 
+  /// Brands WordPress Logo icon
+  ///
+  /// https://fontawesome.com/icons/wordpress?style=brands
+  static const IconData wordpress = IconDataBrands(0xf19a);
+
+  /// Brands Wordpress Simple icon
+  ///
+  /// https://fontawesome.com/icons/wordpress-simple?style=brands
+  static const IconData wordpressSimple = IconDataBrands(0xf411);
+
   /// Light Worm icon
   ///
   /// https://fontawesome.com/icons/worm?style=light
@@ -38863,6 +41124,26 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/worm?style=thin
   static const IconData thinWorm = IconDataThin(0xe599);
+
+  /// Brands WPBeginner icon
+  ///
+  /// https://fontawesome.com/icons/wpbeginner?style=brands
+  static const IconData wpbeginner = IconDataBrands(0xf297);
+
+  /// Brands WPExplorer icon
+  ///
+  /// https://fontawesome.com/icons/wpexplorer?style=brands
+  static const IconData wpexplorer = IconDataBrands(0xf2de);
+
+  /// Brands WPForms icon
+  ///
+  /// https://fontawesome.com/icons/wpforms?style=brands
+  static const IconData wpforms = IconDataBrands(0xf298);
+
+  /// Brands wpressr icon
+  ///
+  /// https://fontawesome.com/icons/wpressr?style=brands
+  static const IconData wpressr = IconDataBrands(0xf3e4);
 
   /// Light Wreath icon
   ///
@@ -38913,6 +41194,21 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/x-ray?style=thin
   static const IconData thinXRay = IconDataThin(0xf497);
+
+  /// Brands Xbox icon
+  ///
+  /// https://fontawesome.com/icons/xbox?style=brands
+  static const IconData xbox = IconDataBrands(0xf412);
+
+  /// Brands Xing icon
+  ///
+  /// https://fontawesome.com/icons/xing?style=brands
+  static const IconData xing = IconDataBrands(0xf168);
+
+  /// Brands Xing Square icon
+  ///
+  /// https://fontawesome.com/icons/xing-square?style=brands
+  static const IconData xingSquare = IconDataBrands(0xf169);
 
   /// Light X Mark icon
   ///
@@ -39012,6 +41308,41 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/y?style=thin
   static const IconData thinY = IconDataThin(0x59);
 
+  /// Brands Y Combinator icon
+  ///
+  /// https://fontawesome.com/icons/y-combinator?style=brands
+  static const IconData yCombinator = IconDataBrands(0xf23b);
+
+  /// Brands Yahoo Logo icon
+  ///
+  /// https://fontawesome.com/icons/yahoo?style=brands
+  static const IconData yahoo = IconDataBrands(0xf19e);
+
+  /// Brands Yammer icon
+  ///
+  /// https://fontawesome.com/icons/yammer?style=brands
+  static const IconData yammer = IconDataBrands(0xf840);
+
+  /// Brands Yandex icon
+  ///
+  /// https://fontawesome.com/icons/yandex?style=brands
+  static const IconData yandex = IconDataBrands(0xf413);
+
+  /// Brands Yandex International icon
+  ///
+  /// https://fontawesome.com/icons/yandex-international?style=brands
+  static const IconData yandexInternational = IconDataBrands(0xf414);
+
+  /// Brands Yarn icon
+  ///
+  /// https://fontawesome.com/icons/yarn?style=brands
+  static const IconData yarn = IconDataBrands(0xf7e3);
+
+  /// Brands Yelp icon
+  ///
+  /// https://fontawesome.com/icons/yelp?style=brands
+  static const IconData yelp = IconDataBrands(0xf1e9);
+
   /// Light Yen Sign icon
   ///
   /// https://fontawesome.com/icons/yen-sign?style=light
@@ -39064,6 +41395,21 @@ class FontAwesomeIcons {
   /// https://fontawesome.com/icons/yin-yang?style=thin
   static const IconData thinYinYang = IconDataThin(0xf6ad);
 
+  /// Brands Yoast icon
+  ///
+  /// https://fontawesome.com/icons/yoast?style=brands
+  static const IconData yoast = IconDataBrands(0xf2b1);
+
+  /// Brands YouTube icon
+  ///
+  /// https://fontawesome.com/icons/youtube?style=brands
+  static const IconData youtube = IconDataBrands(0xf167);
+
+  /// Brands YouTube Square icon
+  ///
+  /// https://fontawesome.com/icons/youtube-square?style=brands
+  static const IconData youtubeSquare = IconDataBrands(0xf431);
+
   /// Light Z icon
   ///
   /// https://fontawesome.com/icons/z?style=light
@@ -39073,4 +41419,9 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/z?style=thin
   static const IconData thinZ = IconDataThin(0x5a);
+
+  /// Brands Zhihu icon
+  ///
+  /// https://fontawesome.com/icons/zhihu?style=brands
+  static const IconData zhihu = IconDataBrands(0xf63f);
 }

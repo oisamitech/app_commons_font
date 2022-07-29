@@ -16,6 +16,9 @@
       <br>
 </div>
 
+## ⚙️ Run tests
+[![Run analyze and tests](https://github.com/oisamitech/app_commons_font/actions/workflows/analyze_test.yml/badge.svg)](https://github.com/oisamitech/app_commons_font/actions/workflows/analyze_test.yml)
+
 ## 📌 Features List
 Based on Font Awesome 6.1.0.
   * Regular

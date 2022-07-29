@@ -1,0 +1,39 @@
+name: Run analyze and tests
+
+on: 
+  pull_request:
+    branches:
+      - master
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  analyze-and-test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout the code
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: '2'
+      
+      - name: Add ssh to access repositories (modules)
+        uses: webfactory/ssh-agent@v0.5.4
+        with:
+          ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
+      
+      - name: Install and set Flutter version
+        uses: subosito/flutter-action@v2
+        with:
+          flutter-version: '2.10.5'
+          channel: 'stable'
+      
+      - name: Show Flutter version
+        run: flutter --version
+      
+      - name: Restore packages
+        run: flutter pub get
+
+      - name: Run Analyze
+        #run: flutter analyze --no-fatal-infos --no-fatal-warnings
+        run: flutter analyze
